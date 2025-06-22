@@ -294,7 +294,7 @@ with col3:
 
     # Show heatmap
     st.markdown("<h5 style='margin-bottom: 5px;'>How Heart Disease Risk Changes with Age and Gender</h5>", unsafe_allow_html=True)
-    fig, ax = plt.subplots(figsize=(6, 1.3))
+    fig, ax = plt.subplots(figsize=(6, 1.4))
     sns.heatmap(
         heatmap_data,
         annot=True,
