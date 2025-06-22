@@ -1,0 +1,2021 @@
+DIM_GHECAUSE_CODE,DIM_GHECAUSE_TITLE,VAL_DALY_RATE100K_NUMERIC,VAL_DTHS_RATE100K_NUMERIC,Gender,AgeGroup,NumericAge
+500,Preterm birth complications,14361.55,153.09,Female,Under 1 year,0
+1400,Congenital anomalies,12531.85,132.02,Female,Under 1 year,0
+1505,Sudden infant death syndrome,2958.84,32.08,Female,Under 1 year,0
+510,Birth asphyxia and birth trauma,2566.94,27.42,Female,Under 1 year,0
+520,Neonatal sepsis and infections,1343.99,14.4,Female,Under 1 year,0
+390,Lower respiratory infections,1015.83,10.98,Female,Under 1 year,0
+110,Diarrhoeal diseases,688.89,7.31,Female,Under 1 year,0
+1620,Interpersonal violence,600.89,6.44,Female,Under 1 year,0
+1530,Road injury,287.25,2.99,Female,Under 1 year,0
+1150,"Cardiomyopathy, myocarditis, endocarditis",269.51,2.84,Female,Under 1 year,0
+1400,Congenital anomalies,560.28,1.075,Female,1 to 4 years,1
+1400,Congenital anomalies,560.28,1.075,Female,1 to 4 years,2
+1400,Congenital anomalies,560.28,1.075,Female,1 to 4 years,3
+1400,Congenital anomalies,560.28,1.075,Female,1 to 4 years,4
+1530,Road injury,188.52,0.4975,Female,1 to 4 years,1
+1530,Road injury,188.52,0.4975,Female,1 to 4 years,2
+1530,Road injury,188.52,0.4975,Female,1 to 4 years,3
+1530,Road injury,188.52,0.4975,Female,1 to 4 years,4
+1620,Interpersonal violence,175.95,0.4775,Female,1 to 4 years,1
+1620,Interpersonal violence,175.95,0.4775,Female,1 to 4 years,2
+1620,Interpersonal violence,175.95,0.4775,Female,1 to 4 years,3
+1620,Interpersonal violence,175.95,0.4775,Female,1 to 4 years,4
+1570,Drowning,165.28,0.46,Female,1 to 4 years,1
+1570,Drowning,165.28,0.46,Female,1 to 4 years,2
+1570,Drowning,165.28,0.46,Female,1 to 4 years,3
+1570,Drowning,165.28,0.46,Female,1 to 4 years,4
+390,Lower respiratory infections,149.5,0.415,Female,1 to 4 years,1
+390,Lower respiratory infections,149.5,0.415,Female,1 to 4 years,2
+390,Lower respiratory infections,149.5,0.415,Female,1 to 4 years,3
+390,Lower respiratory infections,149.5,0.415,Female,1 to 4 years,4
+751,Brain and nervous system cancers,53.44,0.145,Female,1 to 4 years,1
+751,Brain and nervous system cancers,53.44,0.145,Female,1 to 4 years,2
+751,Brain and nervous system cancers,53.44,0.145,Female,1 to 4 years,3
+751,Brain and nervous system cancers,53.44,0.145,Female,1 to 4 years,4
+1150,"Cardiomyopathy, myocarditis, endocarditis",67.79,0.135,Female,1 to 4 years,1
+1150,"Cardiomyopathy, myocarditis, endocarditis",67.79,0.135,Female,1 to 4 years,2
+1150,"Cardiomyopathy, myocarditis, endocarditis",67.79,0.135,Female,1 to 4 years,3
+1150,"Cardiomyopathy, myocarditis, endocarditis",67.79,0.135,Female,1 to 4 years,4
+1560,"Fire, heat and hot substances",50.35,0.135,Female,1 to 4 years,1
+1560,"Fire, heat and hot substances",50.35,0.135,Female,1 to 4 years,2
+1560,"Fire, heat and hot substances",50.35,0.135,Female,1 to 4 years,3
+1560,"Fire, heat and hot substances",50.35,0.135,Female,1 to 4 years,4
+110,Diarrhoeal diseases,46.66,0.1225,Female,1 to 4 years,1
+110,Diarrhoeal diseases,46.66,0.1225,Female,1 to 4 years,2
+110,Diarrhoeal diseases,46.66,0.1225,Female,1 to 4 years,3
+110,Diarrhoeal diseases,46.66,0.1225,Female,1 to 4 years,4
+770,Leukaemia,45.06,0.1125,Female,1 to 4 years,1
+770,Leukaemia,45.06,0.1125,Female,1 to 4 years,2
+770,Leukaemia,45.06,0.1125,Female,1 to 4 years,3
+770,Leukaemia,45.06,0.1125,Female,1 to 4 years,4
+1530,Road injury,171.35,0.37,Female,5 to 9 years,5
+1530,Road injury,171.35,0.37,Female,5 to 9 years,6
+1530,Road injury,171.35,0.37,Female,5 to 9 years,7
+1530,Road injury,171.35,0.37,Female,5 to 9 years,8
+1530,Road injury,171.35,0.37,Female,5 to 9 years,9
+1400,Congenital anomalies,190.69,0.202,Female,5 to 9 years,5
+1400,Congenital anomalies,190.69,0.202,Female,5 to 9 years,6
+1400,Congenital anomalies,190.69,0.202,Female,5 to 9 years,7
+1400,Congenital anomalies,190.69,0.202,Female,5 to 9 years,8
+1400,Congenital anomalies,190.69,0.202,Female,5 to 9 years,9
+751,Brain and nervous system cancers,68.18,0.156,Female,5 to 9 years,5
+751,Brain and nervous system cancers,68.18,0.156,Female,5 to 9 years,6
+751,Brain and nervous system cancers,68.18,0.156,Female,5 to 9 years,7
+751,Brain and nervous system cancers,68.18,0.156,Female,5 to 9 years,8
+751,Brain and nervous system cancers,68.18,0.156,Female,5 to 9 years,9
+1620,Interpersonal violence,53.3,0.096,Female,5 to 9 years,5
+1620,Interpersonal violence,53.3,0.096,Female,5 to 9 years,6
+1620,Interpersonal violence,53.3,0.096,Female,5 to 9 years,7
+1620,Interpersonal violence,53.3,0.096,Female,5 to 9 years,8
+1620,Interpersonal violence,53.3,0.096,Female,5 to 9 years,9
+1570,Drowning,38.19,0.09,Female,5 to 9 years,5
+1570,Drowning,38.19,0.09,Female,5 to 9 years,6
+1570,Drowning,38.19,0.09,Female,5 to 9 years,7
+1570,Drowning,38.19,0.09,Female,5 to 9 years,8
+1570,Drowning,38.19,0.09,Female,5 to 9 years,9
+1560,"Fire, heat and hot substances",40.09,0.08399999999999999,Female,5 to 9 years,5
+1560,"Fire, heat and hot substances",40.09,0.08399999999999999,Female,5 to 9 years,6
+1560,"Fire, heat and hot substances",40.09,0.08399999999999999,Female,5 to 9 years,7
+1560,"Fire, heat and hot substances",40.09,0.08399999999999999,Female,5 to 9 years,8
+1560,"Fire, heat and hot substances",40.09,0.08399999999999999,Female,5 to 9 years,9
+770,Leukaemia,26.76,0.06,Female,5 to 9 years,5
+770,Leukaemia,26.76,0.06,Female,5 to 9 years,6
+770,Leukaemia,26.76,0.06,Female,5 to 9 years,7
+770,Leukaemia,26.76,0.06,Female,5 to 9 years,8
+770,Leukaemia,26.76,0.06,Female,5 to 9 years,9
+395,COVID-19,84.54,0.05,Female,5 to 9 years,5
+395,COVID-19,84.54,0.05,Female,5 to 9 years,6
+395,COVID-19,84.54,0.05,Female,5 to 9 years,7
+395,COVID-19,84.54,0.05,Female,5 to 9 years,8
+395,COVID-19,84.54,0.05,Female,5 to 9 years,9
+970,Epilepsy,94.65,0.041999999999999996,Female,5 to 9 years,5
+970,Epilepsy,94.65,0.041999999999999996,Female,5 to 9 years,6
+970,Epilepsy,94.65,0.041999999999999996,Female,5 to 9 years,7
+970,Epilepsy,94.65,0.041999999999999996,Female,5 to 9 years,8
+970,Epilepsy,94.65,0.041999999999999996,Female,5 to 9 years,9
+1150,"Cardiomyopathy, myocarditis, endocarditis",31.03,0.04,Female,5 to 9 years,5
+1150,"Cardiomyopathy, myocarditis, endocarditis",31.03,0.04,Female,5 to 9 years,6
+1150,"Cardiomyopathy, myocarditis, endocarditis",31.03,0.04,Female,5 to 9 years,7
+1150,"Cardiomyopathy, myocarditis, endocarditis",31.03,0.04,Female,5 to 9 years,8
+1150,"Cardiomyopathy, myocarditis, endocarditis",31.03,0.04,Female,5 to 9 years,9
+1610,Self-harm,198.87,0.492,Female,10 to 14 years,10
+1610,Self-harm,198.87,0.492,Female,10 to 14 years,11
+1610,Self-harm,198.87,0.492,Female,10 to 14 years,12
+1610,Self-harm,198.87,0.492,Female,10 to 14 years,13
+1610,Self-harm,198.87,0.492,Female,10 to 14 years,14
+1530,Road injury,167.2,0.366,Female,10 to 14 years,10
+1530,Road injury,167.2,0.366,Female,10 to 14 years,11
+1530,Road injury,167.2,0.366,Female,10 to 14 years,12
+1530,Road injury,167.2,0.366,Female,10 to 14 years,13
+1530,Road injury,167.2,0.366,Female,10 to 14 years,14
+1400,Congenital anomalies,157.62,0.188,Female,10 to 14 years,10
+1400,Congenital anomalies,157.62,0.188,Female,10 to 14 years,11
+1400,Congenital anomalies,157.62,0.188,Female,10 to 14 years,12
+1400,Congenital anomalies,157.62,0.188,Female,10 to 14 years,13
+1400,Congenital anomalies,157.62,0.188,Female,10 to 14 years,14
+751,Brain and nervous system cancers,55.04,0.134,Female,10 to 14 years,10
+751,Brain and nervous system cancers,55.04,0.134,Female,10 to 14 years,11
+751,Brain and nervous system cancers,55.04,0.134,Female,10 to 14 years,12
+751,Brain and nervous system cancers,55.04,0.134,Female,10 to 14 years,13
+751,Brain and nervous system cancers,55.04,0.134,Female,10 to 14 years,14
+770,Leukaemia,35.49,0.086,Female,10 to 14 years,10
+770,Leukaemia,35.49,0.086,Female,10 to 14 years,11
+770,Leukaemia,35.49,0.086,Female,10 to 14 years,12
+770,Leukaemia,35.49,0.086,Female,10 to 14 years,13
+770,Leukaemia,35.49,0.086,Female,10 to 14 years,14
+1620,Interpersonal violence,58.8,0.08199999999999999,Female,10 to 14 years,10
+1620,Interpersonal violence,58.8,0.08199999999999999,Female,10 to 14 years,11
+1620,Interpersonal violence,58.8,0.08199999999999999,Female,10 to 14 years,12
+1620,Interpersonal violence,58.8,0.08199999999999999,Female,10 to 14 years,13
+1620,Interpersonal violence,58.8,0.08199999999999999,Female,10 to 14 years,14
+395,COVID-19,106.76,0.076,Female,10 to 14 years,10
+395,COVID-19,106.76,0.076,Female,10 to 14 years,11
+395,COVID-19,106.76,0.076,Female,10 to 14 years,12
+395,COVID-19,106.76,0.076,Female,10 to 14 years,13
+395,COVID-19,106.76,0.076,Female,10 to 14 years,14
+1570,Drowning,25.68,0.064,Female,10 to 14 years,10
+1570,Drowning,25.68,0.064,Female,10 to 14 years,11
+1570,Drowning,25.68,0.064,Female,10 to 14 years,12
+1570,Drowning,25.68,0.064,Female,10 to 14 years,13
+1570,Drowning,25.68,0.064,Female,10 to 14 years,14
+1140,Stroke,54.48,0.062,Female,10 to 14 years,10
+1140,Stroke,54.48,0.062,Female,10 to 14 years,11
+1140,Stroke,54.48,0.062,Female,10 to 14 years,12
+1140,Stroke,54.48,0.062,Female,10 to 14 years,13
+1140,Stroke,54.48,0.062,Female,10 to 14 years,14
+970,Epilepsy,101.65,0.05600000000000001,Female,10 to 14 years,10
+970,Epilepsy,101.65,0.05600000000000001,Female,10 to 14 years,11
+970,Epilepsy,101.65,0.05600000000000001,Female,10 to 14 years,12
+970,Epilepsy,101.65,0.05600000000000001,Female,10 to 14 years,13
+970,Epilepsy,101.65,0.05600000000000001,Female,10 to 14 years,14
+1530,Road injury,716.82,1.798,Female,15 to 19 years,15
+1530,Road injury,716.82,1.798,Female,15 to 19 years,16
+1530,Road injury,716.82,1.798,Female,15 to 19 years,17
+1530,Road injury,716.82,1.798,Female,15 to 19 years,18
+1530,Road injury,716.82,1.798,Female,15 to 19 years,19
+1610,Self-harm,447.5,1.174,Female,15 to 19 years,15
+1610,Self-harm,447.5,1.174,Female,15 to 19 years,16
+1610,Self-harm,447.5,1.174,Female,15 to 19 years,17
+1610,Self-harm,447.5,1.174,Female,15 to 19 years,18
+1610,Self-harm,447.5,1.174,Female,15 to 19 years,19
+870,Drug use disorders,915.03,0.9640000000000001,Female,15 to 19 years,15
+870,Drug use disorders,915.03,0.9640000000000001,Female,15 to 19 years,16
+870,Drug use disorders,915.03,0.9640000000000001,Female,15 to 19 years,17
+870,Drug use disorders,915.03,0.9640000000000001,Female,15 to 19 years,18
+870,Drug use disorders,915.03,0.9640000000000001,Female,15 to 19 years,19
+1620,Interpersonal violence,194.27,0.378,Female,15 to 19 years,15
+1620,Interpersonal violence,194.27,0.378,Female,15 to 19 years,16
+1620,Interpersonal violence,194.27,0.378,Female,15 to 19 years,17
+1620,Interpersonal violence,194.27,0.378,Female,15 to 19 years,18
+1620,Interpersonal violence,194.27,0.378,Female,15 to 19 years,19
+395,COVID-19,184.68,0.266,Female,15 to 19 years,15
+395,COVID-19,184.68,0.266,Female,15 to 19 years,16
+395,COVID-19,184.68,0.266,Female,15 to 19 years,17
+395,COVID-19,184.68,0.266,Female,15 to 19 years,18
+395,COVID-19,184.68,0.266,Female,15 to 19 years,19
+1400,Congenital anomalies,153.61,0.21000000000000002,Female,15 to 19 years,15
+1400,Congenital anomalies,153.61,0.21000000000000002,Female,15 to 19 years,16
+1400,Congenital anomalies,153.61,0.21000000000000002,Female,15 to 19 years,17
+1400,Congenital anomalies,153.61,0.21000000000000002,Female,15 to 19 years,18
+1400,Congenital anomalies,153.61,0.21000000000000002,Female,15 to 19 years,19
+970,Epilepsy,127.0,0.13,Female,15 to 19 years,15
+970,Epilepsy,127.0,0.13,Female,15 to 19 years,16
+970,Epilepsy,127.0,0.13,Female,15 to 19 years,17
+970,Epilepsy,127.0,0.13,Female,15 to 19 years,18
+970,Epilepsy,127.0,0.13,Female,15 to 19 years,19
+800,Diabetes mellitus,89.52,0.094,Female,15 to 19 years,15
+800,Diabetes mellitus,89.52,0.094,Female,15 to 19 years,16
+800,Diabetes mellitus,89.52,0.094,Female,15 to 19 years,17
+800,Diabetes mellitus,89.52,0.094,Female,15 to 19 years,18
+800,Diabetes mellitus,89.52,0.094,Female,15 to 19 years,19
+1150,"Cardiomyopathy, myocarditis, endocarditis",43.97,0.088,Female,15 to 19 years,15
+1150,"Cardiomyopathy, myocarditis, endocarditis",43.97,0.088,Female,15 to 19 years,16
+1150,"Cardiomyopathy, myocarditis, endocarditis",43.97,0.088,Female,15 to 19 years,17
+1150,"Cardiomyopathy, myocarditis, endocarditis",43.97,0.088,Female,15 to 19 years,18
+1150,"Cardiomyopathy, myocarditis, endocarditis",43.97,0.088,Female,15 to 19 years,19
+751,Brain and nervous system cancers,28.84,0.074,Female,15 to 19 years,15
+751,Brain and nervous system cancers,28.84,0.074,Female,15 to 19 years,16
+751,Brain and nervous system cancers,28.84,0.074,Female,15 to 19 years,17
+751,Brain and nervous system cancers,28.84,0.074,Female,15 to 19 years,18
+751,Brain and nervous system cancers,28.84,0.074,Female,15 to 19 years,19
+870,Drug use disorders,3093.82,3.178,Female,20 to 24 years,20
+870,Drug use disorders,3093.82,3.178,Female,20 to 24 years,21
+870,Drug use disorders,3093.82,3.178,Female,20 to 24 years,22
+870,Drug use disorders,3093.82,3.178,Female,20 to 24 years,23
+870,Drug use disorders,3093.82,3.178,Female,20 to 24 years,24
+1530,Road injury,904.92,2.37,Female,20 to 24 years,20
+1530,Road injury,904.92,2.37,Female,20 to 24 years,21
+1530,Road injury,904.92,2.37,Female,20 to 24 years,22
+1530,Road injury,904.92,2.37,Female,20 to 24 years,23
+1530,Road injury,904.92,2.37,Female,20 to 24 years,24
+1610,Self-harm,528.56,1.472,Female,20 to 24 years,20
+1610,Self-harm,528.56,1.472,Female,20 to 24 years,21
+1610,Self-harm,528.56,1.472,Female,20 to 24 years,22
+1610,Self-harm,528.56,1.472,Female,20 to 24 years,23
+1610,Self-harm,528.56,1.472,Female,20 to 24 years,24
+395,COVID-19,539.28,0.82,Female,20 to 24 years,20
+395,COVID-19,539.28,0.82,Female,20 to 24 years,21
+395,COVID-19,539.28,0.82,Female,20 to 24 years,22
+395,COVID-19,539.28,0.82,Female,20 to 24 years,23
+395,COVID-19,539.28,0.82,Female,20 to 24 years,24
+1620,Interpersonal violence,337.42,0.818,Female,20 to 24 years,20
+1620,Interpersonal violence,337.42,0.818,Female,20 to 24 years,21
+1620,Interpersonal violence,337.42,0.818,Female,20 to 24 years,22
+1620,Interpersonal violence,337.42,0.818,Female,20 to 24 years,23
+1620,Interpersonal violence,337.42,0.818,Female,20 to 24 years,24
+1400,Congenital anomalies,142.64,0.21800000000000003,Female,20 to 24 years,20
+1400,Congenital anomalies,142.64,0.21800000000000003,Female,20 to 24 years,21
+1400,Congenital anomalies,142.64,0.21800000000000003,Female,20 to 24 years,22
+1400,Congenital anomalies,142.64,0.21800000000000003,Female,20 to 24 years,23
+1400,Congenital anomalies,142.64,0.21800000000000003,Female,20 to 24 years,24
+420,Maternal conditions,97.7,0.21600000000000003,Female,20 to 24 years,20
+420,Maternal conditions,97.7,0.21600000000000003,Female,20 to 24 years,21
+420,Maternal conditions,97.7,0.21600000000000003,Female,20 to 24 years,22
+420,Maternal conditions,97.7,0.21600000000000003,Female,20 to 24 years,23
+420,Maternal conditions,97.7,0.21600000000000003,Female,20 to 24 years,24
+800,Diabetes mellitus,141.0,0.16999999999999998,Female,20 to 24 years,20
+800,Diabetes mellitus,141.0,0.16999999999999998,Female,20 to 24 years,21
+800,Diabetes mellitus,141.0,0.16999999999999998,Female,20 to 24 years,22
+800,Diabetes mellitus,141.0,0.16999999999999998,Female,20 to 24 years,23
+800,Diabetes mellitus,141.0,0.16999999999999998,Female,20 to 24 years,24
+770,Leukaemia,45.51,0.128,Female,20 to 24 years,20
+770,Leukaemia,45.51,0.128,Female,20 to 24 years,21
+770,Leukaemia,45.51,0.128,Female,20 to 24 years,22
+770,Leukaemia,45.51,0.128,Female,20 to 24 years,23
+770,Leukaemia,45.51,0.128,Female,20 to 24 years,24
+970,Epilepsy,119.79,0.12,Female,20 to 24 years,20
+970,Epilepsy,119.79,0.12,Female,20 to 24 years,21
+970,Epilepsy,119.79,0.12,Female,20 to 24 years,22
+970,Epilepsy,119.79,0.12,Female,20 to 24 years,23
+970,Epilepsy,119.79,0.12,Female,20 to 24 years,24
+870,Drug use disorders,4118.4,5.172,Female,25 to 29 years,25
+870,Drug use disorders,4118.4,5.172,Female,25 to 29 years,26
+870,Drug use disorders,4118.4,5.172,Female,25 to 29 years,27
+870,Drug use disorders,4118.4,5.172,Female,25 to 29 years,28
+870,Drug use disorders,4118.4,5.172,Female,25 to 29 years,29
+1530,Road injury,781.55,2.086,Female,25 to 29 years,25
+1530,Road injury,781.55,2.086,Female,25 to 29 years,26
+1530,Road injury,781.55,2.086,Female,25 to 29 years,27
+1530,Road injury,781.55,2.086,Female,25 to 29 years,28
+1530,Road injury,781.55,2.086,Female,25 to 29 years,29
+1610,Self-harm,546.05,1.6280000000000001,Female,25 to 29 years,25
+1610,Self-harm,546.05,1.6280000000000001,Female,25 to 29 years,26
+1610,Self-harm,546.05,1.6280000000000001,Female,25 to 29 years,27
+1610,Self-harm,546.05,1.6280000000000001,Female,25 to 29 years,28
+1610,Self-harm,546.05,1.6280000000000001,Female,25 to 29 years,29
+395,COVID-19,689.92,1.392,Female,25 to 29 years,25
+395,COVID-19,689.92,1.392,Female,25 to 29 years,26
+395,COVID-19,689.92,1.392,Female,25 to 29 years,27
+395,COVID-19,689.92,1.392,Female,25 to 29 years,28
+395,COVID-19,689.92,1.392,Female,25 to 29 years,29
+1620,Interpersonal violence,253.82,0.6719999999999999,Female,25 to 29 years,25
+1620,Interpersonal violence,253.82,0.6719999999999999,Female,25 to 29 years,26
+1620,Interpersonal violence,253.82,0.6719999999999999,Female,25 to 29 years,27
+1620,Interpersonal violence,253.82,0.6719999999999999,Female,25 to 29 years,28
+1620,Interpersonal violence,253.82,0.6719999999999999,Female,25 to 29 years,29
+800,Diabetes mellitus,234.53,0.358,Female,25 to 29 years,25
+800,Diabetes mellitus,234.53,0.358,Female,25 to 29 years,26
+800,Diabetes mellitus,234.53,0.358,Female,25 to 29 years,27
+800,Diabetes mellitus,234.53,0.358,Female,25 to 29 years,28
+800,Diabetes mellitus,234.53,0.358,Female,25 to 29 years,29
+420,Maternal conditions,149.11,0.33799999999999997,Female,25 to 29 years,25
+420,Maternal conditions,149.11,0.33799999999999997,Female,25 to 29 years,26
+420,Maternal conditions,149.11,0.33799999999999997,Female,25 to 29 years,27
+420,Maternal conditions,149.11,0.33799999999999997,Female,25 to 29 years,28
+420,Maternal conditions,149.11,0.33799999999999997,Female,25 to 29 years,29
+1230,Cirrhosis of the liver,101.79,0.3,Female,25 to 29 years,25
+1230,Cirrhosis of the liver,101.79,0.3,Female,25 to 29 years,26
+1230,Cirrhosis of the liver,101.79,0.3,Female,25 to 29 years,27
+1230,Cirrhosis of the liver,101.79,0.3,Female,25 to 29 years,28
+1230,Cirrhosis of the liver,101.79,0.3,Female,25 to 29 years,29
+1150,"Cardiomyopathy, myocarditis, endocarditis",98.28,0.27,Female,25 to 29 years,25
+1150,"Cardiomyopathy, myocarditis, endocarditis",98.28,0.27,Female,25 to 29 years,26
+1150,"Cardiomyopathy, myocarditis, endocarditis",98.28,0.27,Female,25 to 29 years,27
+1150,"Cardiomyopathy, myocarditis, endocarditis",98.28,0.27,Female,25 to 29 years,28
+1150,"Cardiomyopathy, myocarditis, endocarditis",98.28,0.27,Female,25 to 29 years,29
+860,Alcohol use disorders,401.81,0.202,Female,25 to 29 years,25
+860,Alcohol use disorders,401.81,0.202,Female,25 to 29 years,26
+860,Alcohol use disorders,401.81,0.202,Female,25 to 29 years,27
+860,Alcohol use disorders,401.81,0.202,Female,25 to 29 years,28
+860,Alcohol use disorders,401.81,0.202,Female,25 to 29 years,29
+870,Drug use disorders,4113.75,6.862,Female,30 to 34 years,30
+870,Drug use disorders,4113.75,6.862,Female,30 to 34 years,31
+870,Drug use disorders,4113.75,6.862,Female,30 to 34 years,32
+870,Drug use disorders,4113.75,6.862,Female,30 to 34 years,33
+870,Drug use disorders,4113.75,6.862,Female,30 to 34 years,34
+395,COVID-19,1022.68,2.662,Female,30 to 34 years,30
+395,COVID-19,1022.68,2.662,Female,30 to 34 years,31
+395,COVID-19,1022.68,2.662,Female,30 to 34 years,32
+395,COVID-19,1022.68,2.662,Female,30 to 34 years,33
+395,COVID-19,1022.68,2.662,Female,30 to 34 years,34
+1530,Road injury,736.07,2.018,Female,30 to 34 years,30
+1530,Road injury,736.07,2.018,Female,30 to 34 years,31
+1530,Road injury,736.07,2.018,Female,30 to 34 years,32
+1530,Road injury,736.07,2.018,Female,30 to 34 years,33
+1530,Road injury,736.07,2.018,Female,30 to 34 years,34
+1610,Self-harm,493.28,1.58,Female,30 to 34 years,30
+1610,Self-harm,493.28,1.58,Female,30 to 34 years,31
+1610,Self-harm,493.28,1.58,Female,30 to 34 years,32
+1610,Self-harm,493.28,1.58,Female,30 to 34 years,33
+1610,Self-harm,493.28,1.58,Female,30 to 34 years,34
+1230,Cirrhosis of the liver,311.11,1.016,Female,30 to 34 years,30
+1230,Cirrhosis of the liver,311.11,1.016,Female,30 to 34 years,31
+1230,Cirrhosis of the liver,311.11,1.016,Female,30 to 34 years,32
+1230,Cirrhosis of the liver,311.11,1.016,Female,30 to 34 years,33
+1230,Cirrhosis of the liver,311.11,1.016,Female,30 to 34 years,34
+1620,Interpersonal violence,279.11,0.8220000000000001,Female,30 to 34 years,30
+1620,Interpersonal violence,279.11,0.8220000000000001,Female,30 to 34 years,31
+1620,Interpersonal violence,279.11,0.8220000000000001,Female,30 to 34 years,32
+1620,Interpersonal violence,279.11,0.8220000000000001,Female,30 to 34 years,33
+1620,Interpersonal violence,279.11,0.8220000000000001,Female,30 to 34 years,34
+700,Breast cancer,187.28,0.546,Female,30 to 34 years,30
+700,Breast cancer,187.28,0.546,Female,30 to 34 years,31
+700,Breast cancer,187.28,0.546,Female,30 to 34 years,32
+700,Breast cancer,187.28,0.546,Female,30 to 34 years,33
+700,Breast cancer,187.28,0.546,Female,30 to 34 years,34
+1130,Ischaemic heart disease,162.29,0.52,Female,30 to 34 years,30
+1130,Ischaemic heart disease,162.29,0.52,Female,30 to 34 years,31
+1130,Ischaemic heart disease,162.29,0.52,Female,30 to 34 years,32
+1130,Ischaemic heart disease,162.29,0.52,Female,30 to 34 years,33
+1130,Ischaemic heart disease,162.29,0.52,Female,30 to 34 years,34
+860,Alcohol use disorders,441.21,0.48200000000000004,Female,30 to 34 years,30
+860,Alcohol use disorders,441.21,0.48200000000000004,Female,30 to 34 years,31
+860,Alcohol use disorders,441.21,0.48200000000000004,Female,30 to 34 years,32
+860,Alcohol use disorders,441.21,0.48200000000000004,Female,30 to 34 years,33
+860,Alcohol use disorders,441.21,0.48200000000000004,Female,30 to 34 years,34
+420,Maternal conditions,183.45,0.458,Female,30 to 34 years,30
+420,Maternal conditions,183.45,0.458,Female,30 to 34 years,31
+420,Maternal conditions,183.45,0.458,Female,30 to 34 years,32
+420,Maternal conditions,183.45,0.458,Female,30 to 34 years,33
+420,Maternal conditions,183.45,0.458,Female,30 to 34 years,34
+870,Drug use disorders,3740.01,7.448,Female,35 to 39 years,35
+870,Drug use disorders,3740.01,7.448,Female,35 to 39 years,36
+870,Drug use disorders,3740.01,7.448,Female,35 to 39 years,37
+870,Drug use disorders,3740.01,7.448,Female,35 to 39 years,38
+870,Drug use disorders,3740.01,7.448,Female,35 to 39 years,39
+395,COVID-19,1411.73,4.296,Female,35 to 39 years,35
+395,COVID-19,1411.73,4.296,Female,35 to 39 years,36
+395,COVID-19,1411.73,4.296,Female,35 to 39 years,37
+395,COVID-19,1411.73,4.296,Female,35 to 39 years,38
+395,COVID-19,1411.73,4.296,Female,35 to 39 years,39
+1530,Road injury,714.86,2.0300000000000002,Female,35 to 39 years,35
+1530,Road injury,714.86,2.0300000000000002,Female,35 to 39 years,36
+1530,Road injury,714.86,2.0300000000000002,Female,35 to 39 years,37
+1530,Road injury,714.86,2.0300000000000002,Female,35 to 39 years,38
+1530,Road injury,714.86,2.0300000000000002,Female,35 to 39 years,39
+1230,Cirrhosis of the liver,508.72,1.816,Female,35 to 39 years,35
+1230,Cirrhosis of the liver,508.72,1.816,Female,35 to 39 years,36
+1230,Cirrhosis of the liver,508.72,1.816,Female,35 to 39 years,37
+1230,Cirrhosis of the liver,508.72,1.816,Female,35 to 39 years,38
+1230,Cirrhosis of the liver,508.72,1.816,Female,35 to 39 years,39
+1610,Self-harm,489.35,1.7,Female,35 to 39 years,35
+1610,Self-harm,489.35,1.7,Female,35 to 39 years,36
+1610,Self-harm,489.35,1.7,Female,35 to 39 years,37
+1610,Self-harm,489.35,1.7,Female,35 to 39 years,38
+1610,Self-harm,489.35,1.7,Female,35 to 39 years,39
+700,Breast cancer,426.37,1.3800000000000001,Female,35 to 39 years,35
+700,Breast cancer,426.37,1.3800000000000001,Female,35 to 39 years,36
+700,Breast cancer,426.37,1.3800000000000001,Female,35 to 39 years,37
+700,Breast cancer,426.37,1.3800000000000001,Female,35 to 39 years,38
+700,Breast cancer,426.37,1.3800000000000001,Female,35 to 39 years,39
+1130,Ischaemic heart disease,313.02,1.108,Female,35 to 39 years,35
+1130,Ischaemic heart disease,313.02,1.108,Female,35 to 39 years,36
+1130,Ischaemic heart disease,313.02,1.108,Female,35 to 39 years,37
+1130,Ischaemic heart disease,313.02,1.108,Female,35 to 39 years,38
+1130,Ischaemic heart disease,313.02,1.108,Female,35 to 39 years,39
+860,Alcohol use disorders,442.99,0.6900000000000001,Female,35 to 39 years,35
+860,Alcohol use disorders,442.99,0.6900000000000001,Female,35 to 39 years,36
+860,Alcohol use disorders,442.99,0.6900000000000001,Female,35 to 39 years,37
+860,Alcohol use disorders,442.99,0.6900000000000001,Female,35 to 39 years,38
+860,Alcohol use disorders,442.99,0.6900000000000001,Female,35 to 39 years,39
+1140,Stroke,288.74,0.6719999999999999,Female,35 to 39 years,35
+1140,Stroke,288.74,0.6719999999999999,Female,35 to 39 years,36
+1140,Stroke,288.74,0.6719999999999999,Female,35 to 39 years,37
+1140,Stroke,288.74,0.6719999999999999,Female,35 to 39 years,38
+1140,Stroke,288.74,0.6719999999999999,Female,35 to 39 years,39
+800,Diabetes mellitus,475.04,0.5860000000000001,Female,35 to 39 years,35
+800,Diabetes mellitus,475.04,0.5860000000000001,Female,35 to 39 years,36
+800,Diabetes mellitus,475.04,0.5860000000000001,Female,35 to 39 years,37
+800,Diabetes mellitus,475.04,0.5860000000000001,Female,35 to 39 years,38
+800,Diabetes mellitus,475.04,0.5860000000000001,Female,35 to 39 years,39
+395,COVID-19,2013.48,7.098000000000001,Female,40 to 44 years,40
+395,COVID-19,2013.48,7.098000000000001,Female,40 to 44 years,41
+395,COVID-19,2013.48,7.098000000000001,Female,40 to 44 years,42
+395,COVID-19,2013.48,7.098000000000001,Female,40 to 44 years,43
+395,COVID-19,2013.48,7.098000000000001,Female,40 to 44 years,44
+870,Drug use disorders,3212.87,6.981999999999999,Female,40 to 44 years,40
+870,Drug use disorders,3212.87,6.981999999999999,Female,40 to 44 years,41
+870,Drug use disorders,3212.87,6.981999999999999,Female,40 to 44 years,42
+870,Drug use disorders,3212.87,6.981999999999999,Female,40 to 44 years,43
+870,Drug use disorders,3212.87,6.981999999999999,Female,40 to 44 years,44
+1130,Ischaemic heart disease,609.22,2.38,Female,40 to 44 years,40
+1130,Ischaemic heart disease,609.22,2.38,Female,40 to 44 years,41
+1130,Ischaemic heart disease,609.22,2.38,Female,40 to 44 years,42
+1130,Ischaemic heart disease,609.22,2.38,Female,40 to 44 years,43
+1130,Ischaemic heart disease,609.22,2.38,Female,40 to 44 years,44
+700,Breast cancer,675.45,2.3579999999999997,Female,40 to 44 years,40
+700,Breast cancer,675.45,2.3579999999999997,Female,40 to 44 years,41
+700,Breast cancer,675.45,2.3579999999999997,Female,40 to 44 years,42
+700,Breast cancer,675.45,2.3579999999999997,Female,40 to 44 years,43
+700,Breast cancer,675.45,2.3579999999999997,Female,40 to 44 years,44
+1230,Cirrhosis of the liver,580.27,2.274,Female,40 to 44 years,40
+1230,Cirrhosis of the liver,580.27,2.274,Female,40 to 44 years,41
+1230,Cirrhosis of the liver,580.27,2.274,Female,40 to 44 years,42
+1230,Cirrhosis of the liver,580.27,2.274,Female,40 to 44 years,43
+1230,Cirrhosis of the liver,580.27,2.274,Female,40 to 44 years,44
+1530,Road injury,614.2,1.7260000000000002,Female,40 to 44 years,40
+1530,Road injury,614.2,1.7260000000000002,Female,40 to 44 years,41
+1530,Road injury,614.2,1.7260000000000002,Female,40 to 44 years,42
+1530,Road injury,614.2,1.7260000000000002,Female,40 to 44 years,43
+1530,Road injury,614.2,1.7260000000000002,Female,40 to 44 years,44
+1610,Self-harm,425.98,1.6059999999999999,Female,40 to 44 years,40
+1610,Self-harm,425.98,1.6059999999999999,Female,40 to 44 years,41
+1610,Self-harm,425.98,1.6059999999999999,Female,40 to 44 years,42
+1610,Self-harm,425.98,1.6059999999999999,Female,40 to 44 years,43
+1610,Self-harm,425.98,1.6059999999999999,Female,40 to 44 years,44
+1140,Stroke,434.06,1.204,Female,40 to 44 years,40
+1140,Stroke,434.06,1.204,Female,40 to 44 years,41
+1140,Stroke,434.06,1.204,Female,40 to 44 years,42
+1140,Stroke,434.06,1.204,Female,40 to 44 years,43
+1140,Stroke,434.06,1.204,Female,40 to 44 years,44
+1270,Kidney diseases,374.51,0.984,Female,40 to 44 years,40
+1270,Kidney diseases,374.51,0.984,Female,40 to 44 years,41
+1270,Kidney diseases,374.51,0.984,Female,40 to 44 years,42
+1270,Kidney diseases,374.51,0.984,Female,40 to 44 years,43
+1270,Kidney diseases,374.51,0.984,Female,40 to 44 years,44
+650,Colon and rectum cancers,250.85,0.944,Female,40 to 44 years,40
+650,Colon and rectum cancers,250.85,0.944,Female,40 to 44 years,41
+650,Colon and rectum cancers,250.85,0.944,Female,40 to 44 years,42
+650,Colon and rectum cancers,250.85,0.944,Female,40 to 44 years,43
+650,Colon and rectum cancers,250.85,0.944,Female,40 to 44 years,44
+395,COVID-19,2713.01,10.879999999999999,Female,45 to 49 years,45
+395,COVID-19,2713.01,10.879999999999999,Female,45 to 49 years,46
+395,COVID-19,2713.01,10.879999999999999,Female,45 to 49 years,47
+395,COVID-19,2713.01,10.879999999999999,Female,45 to 49 years,48
+395,COVID-19,2713.01,10.879999999999999,Female,45 to 49 years,49
+870,Drug use disorders,2688.37,6.192,Female,45 to 49 years,45
+870,Drug use disorders,2688.37,6.192,Female,45 to 49 years,46
+870,Drug use disorders,2688.37,6.192,Female,45 to 49 years,47
+870,Drug use disorders,2688.37,6.192,Female,45 to 49 years,48
+870,Drug use disorders,2688.37,6.192,Female,45 to 49 years,49
+1130,Ischaemic heart disease,981.5,4.244,Female,45 to 49 years,45
+1130,Ischaemic heart disease,981.5,4.244,Female,45 to 49 years,46
+1130,Ischaemic heart disease,981.5,4.244,Female,45 to 49 years,47
+1130,Ischaemic heart disease,981.5,4.244,Female,45 to 49 years,48
+1130,Ischaemic heart disease,981.5,4.244,Female,45 to 49 years,49
+700,Breast cancer,919.71,3.518,Female,45 to 49 years,45
+700,Breast cancer,919.71,3.518,Female,45 to 49 years,46
+700,Breast cancer,919.71,3.518,Female,45 to 49 years,47
+700,Breast cancer,919.71,3.518,Female,45 to 49 years,48
+700,Breast cancer,919.71,3.518,Female,45 to 49 years,49
+1230,Cirrhosis of the liver,668.53,2.902,Female,45 to 49 years,45
+1230,Cirrhosis of the liver,668.53,2.902,Female,45 to 49 years,46
+1230,Cirrhosis of the liver,668.53,2.902,Female,45 to 49 years,47
+1230,Cirrhosis of the liver,668.53,2.902,Female,45 to 49 years,48
+1230,Cirrhosis of the liver,668.53,2.902,Female,45 to 49 years,49
+1140,Stroke,627.98,2.004,Female,45 to 49 years,45
+1140,Stroke,627.98,2.004,Female,45 to 49 years,46
+1140,Stroke,627.98,2.004,Female,45 to 49 years,47
+1140,Stroke,627.98,2.004,Female,45 to 49 years,48
+1140,Stroke,627.98,2.004,Female,45 to 49 years,49
+1610,Self-harm,417.63,1.734,Female,45 to 49 years,45
+1610,Self-harm,417.63,1.734,Female,45 to 49 years,46
+1610,Self-harm,417.63,1.734,Female,45 to 49 years,47
+1610,Self-harm,417.63,1.734,Female,45 to 49 years,48
+1610,Self-harm,417.63,1.734,Female,45 to 49 years,49
+650,Colon and rectum cancers,405.16,1.688,Female,45 to 49 years,45
+650,Colon and rectum cancers,405.16,1.688,Female,45 to 49 years,46
+650,Colon and rectum cancers,405.16,1.688,Female,45 to 49 years,47
+650,Colon and rectum cancers,405.16,1.688,Female,45 to 49 years,48
+650,Colon and rectum cancers,405.16,1.688,Female,45 to 49 years,49
+1530,Road injury,563.11,1.582,Female,45 to 49 years,45
+1530,Road injury,563.11,1.582,Female,45 to 49 years,46
+1530,Road injury,563.11,1.582,Female,45 to 49 years,47
+1530,Road injury,563.11,1.582,Female,45 to 49 years,48
+1530,Road injury,563.11,1.582,Female,45 to 49 years,49
+1270,Kidney diseases,496.64,1.516,Female,45 to 49 years,45
+1270,Kidney diseases,496.64,1.516,Female,45 to 49 years,46
+1270,Kidney diseases,496.64,1.516,Female,45 to 49 years,47
+1270,Kidney diseases,496.64,1.516,Female,45 to 49 years,48
+1270,Kidney diseases,496.64,1.516,Female,45 to 49 years,49
+395,COVID-19,3308.77,15.208000000000002,Female,50 to 54 years,50
+395,COVID-19,3308.77,15.208000000000002,Female,50 to 54 years,51
+395,COVID-19,3308.77,15.208000000000002,Female,50 to 54 years,52
+395,COVID-19,3308.77,15.208000000000002,Female,50 to 54 years,53
+395,COVID-19,3308.77,15.208000000000002,Female,50 to 54 years,54
+1130,Ischaemic heart disease,1576.55,7.636,Female,50 to 54 years,50
+1130,Ischaemic heart disease,1576.55,7.636,Female,50 to 54 years,51
+1130,Ischaemic heart disease,1576.55,7.636,Female,50 to 54 years,52
+1130,Ischaemic heart disease,1576.55,7.636,Female,50 to 54 years,53
+1130,Ischaemic heart disease,1576.55,7.636,Female,50 to 54 years,54
+870,Drug use disorders,2354.23,6.252000000000001,Female,50 to 54 years,50
+870,Drug use disorders,2354.23,6.252000000000001,Female,50 to 54 years,51
+870,Drug use disorders,2354.23,6.252000000000001,Female,50 to 54 years,52
+870,Drug use disorders,2354.23,6.252000000000001,Female,50 to 54 years,53
+870,Drug use disorders,2354.23,6.252000000000001,Female,50 to 54 years,54
+700,Breast cancer,1218.76,5.246,Female,50 to 54 years,50
+700,Breast cancer,1218.76,5.246,Female,50 to 54 years,51
+700,Breast cancer,1218.76,5.246,Female,50 to 54 years,52
+700,Breast cancer,1218.76,5.246,Female,50 to 54 years,53
+700,Breast cancer,1218.76,5.246,Female,50 to 54 years,54
+1230,Cirrhosis of the liver,855.22,4.164,Female,50 to 54 years,50
+1230,Cirrhosis of the liver,855.22,4.164,Female,50 to 54 years,51
+1230,Cirrhosis of the liver,855.22,4.164,Female,50 to 54 years,52
+1230,Cirrhosis of the liver,855.22,4.164,Female,50 to 54 years,53
+1230,Cirrhosis of the liver,855.22,4.164,Female,50 to 54 years,54
+680,"Trachea, bronchus, lung cancers",651.56,3.158,Female,50 to 54 years,50
+680,"Trachea, bronchus, lung cancers",651.56,3.158,Female,50 to 54 years,51
+680,"Trachea, bronchus, lung cancers",651.56,3.158,Female,50 to 54 years,52
+680,"Trachea, bronchus, lung cancers",651.56,3.158,Female,50 to 54 years,53
+680,"Trachea, bronchus, lung cancers",651.56,3.158,Female,50 to 54 years,54
+1140,Stroke,831.35,2.9579999999999997,Female,50 to 54 years,50
+1140,Stroke,831.35,2.9579999999999997,Female,50 to 54 years,51
+1140,Stroke,831.35,2.9579999999999997,Female,50 to 54 years,52
+1140,Stroke,831.35,2.9579999999999997,Female,50 to 54 years,53
+1140,Stroke,831.35,2.9579999999999997,Female,50 to 54 years,54
+650,Colon and rectum cancers,582.75,2.714,Female,50 to 54 years,50
+650,Colon and rectum cancers,582.75,2.714,Female,50 to 54 years,51
+650,Colon and rectum cancers,582.75,2.714,Female,50 to 54 years,52
+650,Colon and rectum cancers,582.75,2.714,Female,50 to 54 years,53
+650,Colon and rectum cancers,582.75,2.714,Female,50 to 54 years,54
+1270,Kidney diseases,682.63,2.476,Female,50 to 54 years,50
+1270,Kidney diseases,682.63,2.476,Female,50 to 54 years,51
+1270,Kidney diseases,682.63,2.476,Female,50 to 54 years,52
+1270,Kidney diseases,682.63,2.476,Female,50 to 54 years,53
+1270,Kidney diseases,682.63,2.476,Female,50 to 54 years,54
+1180,Chronic obstructive pulmonary disease,829.54,2.476,Female,50 to 54 years,50
+1180,Chronic obstructive pulmonary disease,829.54,2.476,Female,50 to 54 years,51
+1180,Chronic obstructive pulmonary disease,829.54,2.476,Female,50 to 54 years,52
+1180,Chronic obstructive pulmonary disease,829.54,2.476,Female,50 to 54 years,53
+1180,Chronic obstructive pulmonary disease,829.54,2.476,Female,50 to 54 years,54
+395,COVID-19,4096.06,21.722,Female,55 to 59 years,55
+395,COVID-19,4096.06,21.722,Female,55 to 59 years,56
+395,COVID-19,4096.06,21.722,Female,55 to 59 years,57
+395,COVID-19,4096.06,21.722,Female,55 to 59 years,58
+395,COVID-19,4096.06,21.722,Female,55 to 59 years,59
+1130,Ischaemic heart disease,2387.53,13.136000000000001,Female,55 to 59 years,55
+1130,Ischaemic heart disease,2387.53,13.136000000000001,Female,55 to 59 years,56
+1130,Ischaemic heart disease,2387.53,13.136000000000001,Female,55 to 59 years,57
+1130,Ischaemic heart disease,2387.53,13.136000000000001,Female,55 to 59 years,58
+1130,Ischaemic heart disease,2387.53,13.136000000000001,Female,55 to 59 years,59
+700,Breast cancer,1550.44,7.581999999999999,Female,55 to 59 years,55
+700,Breast cancer,1550.44,7.581999999999999,Female,55 to 59 years,56
+700,Breast cancer,1550.44,7.581999999999999,Female,55 to 59 years,57
+700,Breast cancer,1550.44,7.581999999999999,Female,55 to 59 years,58
+700,Breast cancer,1550.44,7.581999999999999,Female,55 to 59 years,59
+680,"Trachea, bronchus, lung cancers",1360.89,7.498,Female,55 to 59 years,55
+680,"Trachea, bronchus, lung cancers",1360.89,7.498,Female,55 to 59 years,56
+680,"Trachea, bronchus, lung cancers",1360.89,7.498,Female,55 to 59 years,57
+680,"Trachea, bronchus, lung cancers",1360.89,7.498,Female,55 to 59 years,58
+680,"Trachea, bronchus, lung cancers",1360.89,7.498,Female,55 to 59 years,59
+1180,Chronic obstructive pulmonary disease,1563.78,6.1659999999999995,Female,55 to 59 years,55
+1180,Chronic obstructive pulmonary disease,1563.78,6.1659999999999995,Female,55 to 59 years,56
+1180,Chronic obstructive pulmonary disease,1563.78,6.1659999999999995,Female,55 to 59 years,57
+1180,Chronic obstructive pulmonary disease,1563.78,6.1659999999999995,Female,55 to 59 years,58
+1180,Chronic obstructive pulmonary disease,1563.78,6.1659999999999995,Female,55 to 59 years,59
+870,Drug use disorders,1786.19,5.93,Female,55 to 59 years,55
+870,Drug use disorders,1786.19,5.93,Female,55 to 59 years,56
+870,Drug use disorders,1786.19,5.93,Female,55 to 59 years,57
+870,Drug use disorders,1786.19,5.93,Female,55 to 59 years,58
+870,Drug use disorders,1786.19,5.93,Female,55 to 59 years,59
+1230,Cirrhosis of the liver,958.82,5.306,Female,55 to 59 years,55
+1230,Cirrhosis of the liver,958.82,5.306,Female,55 to 59 years,56
+1230,Cirrhosis of the liver,958.82,5.306,Female,55 to 59 years,57
+1230,Cirrhosis of the liver,958.82,5.306,Female,55 to 59 years,58
+1230,Cirrhosis of the liver,958.82,5.306,Female,55 to 59 years,59
+1140,Stroke,1125.8,4.556,Female,55 to 59 years,55
+1140,Stroke,1125.8,4.556,Female,55 to 59 years,56
+1140,Stroke,1125.8,4.556,Female,55 to 59 years,57
+1140,Stroke,1125.8,4.556,Female,55 to 59 years,58
+1140,Stroke,1125.8,4.556,Female,55 to 59 years,59
+1270,Kidney diseases,923.71,3.936,Female,55 to 59 years,55
+1270,Kidney diseases,923.71,3.936,Female,55 to 59 years,56
+1270,Kidney diseases,923.71,3.936,Female,55 to 59 years,57
+1270,Kidney diseases,923.71,3.936,Female,55 to 59 years,58
+1270,Kidney diseases,923.71,3.936,Female,55 to 59 years,59
+650,Colon and rectum cancers,688.32,3.6079999999999997,Female,55 to 59 years,55
+650,Colon and rectum cancers,688.32,3.6079999999999997,Female,55 to 59 years,56
+650,Colon and rectum cancers,688.32,3.6079999999999997,Female,55 to 59 years,57
+650,Colon and rectum cancers,688.32,3.6079999999999997,Female,55 to 59 years,58
+650,Colon and rectum cancers,688.32,3.6079999999999997,Female,55 to 59 years,59
+395,COVID-19,5093.41,31.660000000000004,Female,60 to 64 years,60
+395,COVID-19,5093.41,31.660000000000004,Female,60 to 64 years,61
+395,COVID-19,5093.41,31.660000000000004,Female,60 to 64 years,62
+395,COVID-19,5093.41,31.660000000000004,Female,60 to 64 years,63
+395,COVID-19,5093.41,31.660000000000004,Female,60 to 64 years,64
+1130,Ischaemic heart disease,3318.34,21.03,Female,60 to 64 years,60
+1130,Ischaemic heart disease,3318.34,21.03,Female,60 to 64 years,61
+1130,Ischaemic heart disease,3318.34,21.03,Female,60 to 64 years,62
+1130,Ischaemic heart disease,3318.34,21.03,Female,60 to 64 years,63
+1130,Ischaemic heart disease,3318.34,21.03,Female,60 to 64 years,64
+680,"Trachea, bronchus, lung cancers",2247.45,14.322,Female,60 to 64 years,60
+680,"Trachea, bronchus, lung cancers",2247.45,14.322,Female,60 to 64 years,61
+680,"Trachea, bronchus, lung cancers",2247.45,14.322,Female,60 to 64 years,62
+680,"Trachea, bronchus, lung cancers",2247.45,14.322,Female,60 to 64 years,63
+680,"Trachea, bronchus, lung cancers",2247.45,14.322,Female,60 to 64 years,64
+1180,Chronic obstructive pulmonary disease,2499.41,11.964,Female,60 to 64 years,60
+1180,Chronic obstructive pulmonary disease,2499.41,11.964,Female,60 to 64 years,61
+1180,Chronic obstructive pulmonary disease,2499.41,11.964,Female,60 to 64 years,62
+1180,Chronic obstructive pulmonary disease,2499.41,11.964,Female,60 to 64 years,63
+1180,Chronic obstructive pulmonary disease,2499.41,11.964,Female,60 to 64 years,64
+700,Breast cancer,1759.42,9.78,Female,60 to 64 years,60
+700,Breast cancer,1759.42,9.78,Female,60 to 64 years,61
+700,Breast cancer,1759.42,9.78,Female,60 to 64 years,62
+700,Breast cancer,1759.42,9.78,Female,60 to 64 years,63
+700,Breast cancer,1759.42,9.78,Female,60 to 64 years,64
+1140,Stroke,1546.91,7.354000000000001,Female,60 to 64 years,60
+1140,Stroke,1546.91,7.354000000000001,Female,60 to 64 years,61
+1140,Stroke,1546.91,7.354000000000001,Female,60 to 64 years,62
+1140,Stroke,1546.91,7.354000000000001,Female,60 to 64 years,63
+1140,Stroke,1546.91,7.354000000000001,Female,60 to 64 years,64
+1270,Kidney diseases,1247.81,6.343999999999999,Female,60 to 64 years,60
+1270,Kidney diseases,1247.81,6.343999999999999,Female,60 to 64 years,61
+1270,Kidney diseases,1247.81,6.343999999999999,Female,60 to 64 years,62
+1270,Kidney diseases,1247.81,6.343999999999999,Female,60 to 64 years,63
+1270,Kidney diseases,1247.81,6.343999999999999,Female,60 to 64 years,64
+1230,Cirrhosis of the liver,927.59,5.914,Female,60 to 64 years,60
+1230,Cirrhosis of the liver,927.59,5.914,Female,60 to 64 years,61
+1230,Cirrhosis of the liver,927.59,5.914,Female,60 to 64 years,62
+1230,Cirrhosis of the liver,927.59,5.914,Female,60 to 64 years,63
+1230,Cirrhosis of the liver,927.59,5.914,Female,60 to 64 years,64
+650,Colon and rectum cancers,830.12,5.014,Female,60 to 64 years,60
+650,Colon and rectum cancers,830.12,5.014,Female,60 to 64 years,61
+650,Colon and rectum cancers,830.12,5.014,Female,60 to 64 years,62
+650,Colon and rectum cancers,830.12,5.014,Female,60 to 64 years,63
+650,Colon and rectum cancers,830.12,5.014,Female,60 to 64 years,64
+1120,Hypertensive heart disease,724.92,4.538,Female,60 to 64 years,60
+1120,Hypertensive heart disease,724.92,4.538,Female,60 to 64 years,61
+1120,Hypertensive heart disease,724.92,4.538,Female,60 to 64 years,62
+1120,Hypertensive heart disease,724.92,4.538,Female,60 to 64 years,63
+1120,Hypertensive heart disease,724.92,4.538,Female,60 to 64 years,64
+395,COVID-19,5607.68,41.348,Female,65 to 69 years,65
+395,COVID-19,5607.68,41.348,Female,65 to 69 years,66
+395,COVID-19,5607.68,41.348,Female,65 to 69 years,67
+395,COVID-19,5607.68,41.348,Female,65 to 69 years,68
+395,COVID-19,5607.68,41.348,Female,65 to 69 years,69
+1130,Ischaemic heart disease,4170.36,30.836000000000002,Female,65 to 69 years,65
+1130,Ischaemic heart disease,4170.36,30.836000000000002,Female,65 to 69 years,66
+1130,Ischaemic heart disease,4170.36,30.836000000000002,Female,65 to 69 years,67
+1130,Ischaemic heart disease,4170.36,30.836000000000002,Female,65 to 69 years,68
+1130,Ischaemic heart disease,4170.36,30.836000000000002,Female,65 to 69 years,69
+680,"Trachea, bronchus, lung cancers",2566.23,19.247999999999998,Female,65 to 69 years,65
+680,"Trachea, bronchus, lung cancers",2566.23,19.247999999999998,Female,65 to 69 years,66
+680,"Trachea, bronchus, lung cancers",2566.23,19.247999999999998,Female,65 to 69 years,67
+680,"Trachea, bronchus, lung cancers",2566.23,19.247999999999998,Female,65 to 69 years,68
+680,"Trachea, bronchus, lung cancers",2566.23,19.247999999999998,Female,65 to 69 years,69
+1180,Chronic obstructive pulmonary disease,3390.6,17.886000000000003,Female,65 to 69 years,65
+1180,Chronic obstructive pulmonary disease,3390.6,17.886000000000003,Female,65 to 69 years,66
+1180,Chronic obstructive pulmonary disease,3390.6,17.886000000000003,Female,65 to 69 years,67
+1180,Chronic obstructive pulmonary disease,3390.6,17.886000000000003,Female,65 to 69 years,68
+1180,Chronic obstructive pulmonary disease,3390.6,17.886000000000003,Female,65 to 69 years,69
+700,Breast cancer,1858.8,11.906,Female,65 to 69 years,65
+700,Breast cancer,1858.8,11.906,Female,65 to 69 years,66
+700,Breast cancer,1858.8,11.906,Female,65 to 69 years,67
+700,Breast cancer,1858.8,11.906,Female,65 to 69 years,68
+700,Breast cancer,1858.8,11.906,Female,65 to 69 years,69
+1140,Stroke,2035.28,11.434000000000001,Female,65 to 69 years,65
+1140,Stroke,2035.28,11.434000000000001,Female,65 to 69 years,66
+1140,Stroke,2035.28,11.434000000000001,Female,65 to 69 years,67
+1140,Stroke,2035.28,11.434000000000001,Female,65 to 69 years,68
+1140,Stroke,2035.28,11.434000000000001,Female,65 to 69 years,69
+1270,Kidney diseases,1645.37,10.174,Female,65 to 69 years,65
+1270,Kidney diseases,1645.37,10.174,Female,65 to 69 years,66
+1270,Kidney diseases,1645.37,10.174,Female,65 to 69 years,67
+1270,Kidney diseases,1645.37,10.174,Female,65 to 69 years,68
+1270,Kidney diseases,1645.37,10.174,Female,65 to 69 years,69
+950,Alzheimer disease and other dementias,1428.51,6.998,Female,65 to 69 years,65
+950,Alzheimer disease and other dementias,1428.51,6.998,Female,65 to 69 years,66
+950,Alzheimer disease and other dementias,1428.51,6.998,Female,65 to 69 years,67
+950,Alzheimer disease and other dementias,1428.51,6.998,Female,65 to 69 years,68
+950,Alzheimer disease and other dementias,1428.51,6.998,Female,65 to 69 years,69
+670,Pancreas cancer,889.86,6.7219999999999995,Female,65 to 69 years,65
+670,Pancreas cancer,889.86,6.7219999999999995,Female,65 to 69 years,66
+670,Pancreas cancer,889.86,6.7219999999999995,Female,65 to 69 years,67
+670,Pancreas cancer,889.86,6.7219999999999995,Female,65 to 69 years,68
+670,Pancreas cancer,889.86,6.7219999999999995,Female,65 to 69 years,69
+1120,Hypertensive heart disease,918.71,6.644,Female,65 to 69 years,65
+1120,Hypertensive heart disease,918.71,6.644,Female,65 to 69 years,66
+1120,Hypertensive heart disease,918.71,6.644,Female,65 to 69 years,67
+1120,Hypertensive heart disease,918.71,6.644,Female,65 to 69 years,68
+1120,Hypertensive heart disease,918.71,6.644,Female,65 to 69 years,69
+395,COVID-19,6585.4,59.232000000000006,Female,70 to 74 years,70
+395,COVID-19,6585.4,59.232000000000006,Female,70 to 74 years,71
+395,COVID-19,6585.4,59.232000000000006,Female,70 to 74 years,72
+395,COVID-19,6585.4,59.232000000000006,Female,70 to 74 years,73
+395,COVID-19,6585.4,59.232000000000006,Female,70 to 74 years,74
+1130,Ischaemic heart disease,5672.17,50.612,Female,70 to 74 years,70
+1130,Ischaemic heart disease,5672.17,50.612,Female,70 to 74 years,71
+1130,Ischaemic heart disease,5672.17,50.612,Female,70 to 74 years,72
+1130,Ischaemic heart disease,5672.17,50.612,Female,70 to 74 years,73
+1130,Ischaemic heart disease,5672.17,50.612,Female,70 to 74 years,74
+1180,Chronic obstructive pulmonary disease,4818.99,30.880000000000003,Female,70 to 74 years,70
+1180,Chronic obstructive pulmonary disease,4818.99,30.880000000000003,Female,70 to 74 years,71
+1180,Chronic obstructive pulmonary disease,4818.99,30.880000000000003,Female,70 to 74 years,72
+1180,Chronic obstructive pulmonary disease,4818.99,30.880000000000003,Female,70 to 74 years,73
+1180,Chronic obstructive pulmonary disease,4818.99,30.880000000000003,Female,70 to 74 years,74
+680,"Trachea, bronchus, lung cancers",3098.87,28.1,Female,70 to 74 years,70
+680,"Trachea, bronchus, lung cancers",3098.87,28.1,Female,70 to 74 years,71
+680,"Trachea, bronchus, lung cancers",3098.87,28.1,Female,70 to 74 years,72
+680,"Trachea, bronchus, lung cancers",3098.87,28.1,Female,70 to 74 years,73
+680,"Trachea, bronchus, lung cancers",3098.87,28.1,Female,70 to 74 years,74
+950,Alzheimer disease and other dementias,3374.74,22.528,Female,70 to 74 years,70
+950,Alzheimer disease and other dementias,3374.74,22.528,Female,70 to 74 years,71
+950,Alzheimer disease and other dementias,3374.74,22.528,Female,70 to 74 years,72
+950,Alzheimer disease and other dementias,3374.74,22.528,Female,70 to 74 years,73
+950,Alzheimer disease and other dementias,3374.74,22.528,Female,70 to 74 years,74
+1140,Stroke,3052.81,21.446,Female,70 to 74 years,70
+1140,Stroke,3052.81,21.446,Female,70 to 74 years,71
+1140,Stroke,3052.81,21.446,Female,70 to 74 years,72
+1140,Stroke,3052.81,21.446,Female,70 to 74 years,73
+1140,Stroke,3052.81,21.446,Female,70 to 74 years,74
+1270,Kidney diseases,2271.22,17.178,Female,70 to 74 years,70
+1270,Kidney diseases,2271.22,17.178,Female,70 to 74 years,71
+1270,Kidney diseases,2271.22,17.178,Female,70 to 74 years,72
+1270,Kidney diseases,2271.22,17.178,Female,70 to 74 years,73
+1270,Kidney diseases,2271.22,17.178,Female,70 to 74 years,74
+700,Breast cancer,2134.19,16.676,Female,70 to 74 years,70
+700,Breast cancer,2134.19,16.676,Female,70 to 74 years,71
+700,Breast cancer,2134.19,16.676,Female,70 to 74 years,72
+700,Breast cancer,2134.19,16.676,Female,70 to 74 years,73
+700,Breast cancer,2134.19,16.676,Female,70 to 74 years,74
+1120,Hypertensive heart disease,1170.18,10.184000000000001,Female,70 to 74 years,70
+1120,Hypertensive heart disease,1170.18,10.184000000000001,Female,70 to 74 years,71
+1120,Hypertensive heart disease,1170.18,10.184000000000001,Female,70 to 74 years,72
+1120,Hypertensive heart disease,1170.18,10.184000000000001,Female,70 to 74 years,73
+1120,Hypertensive heart disease,1170.18,10.184000000000001,Female,70 to 74 years,74
+670,Pancreas cancer,1093.29,10.01,Female,70 to 74 years,70
+670,Pancreas cancer,1093.29,10.01,Female,70 to 74 years,71
+670,Pancreas cancer,1093.29,10.01,Female,70 to 74 years,72
+670,Pancreas cancer,1093.29,10.01,Female,70 to 74 years,73
+670,Pancreas cancer,1093.29,10.01,Female,70 to 74 years,74
+1130,Ischaemic heart disease,7591.37,85.26,Female,75 to 79 years,75
+1130,Ischaemic heart disease,7591.37,85.26,Female,75 to 79 years,76
+1130,Ischaemic heart disease,7591.37,85.26,Female,75 to 79 years,77
+1130,Ischaemic heart disease,7591.37,85.26,Female,75 to 79 years,78
+1130,Ischaemic heart disease,7591.37,85.26,Female,75 to 79 years,79
+395,COVID-19,7129.4,80.78200000000001,Female,75 to 79 years,75
+395,COVID-19,7129.4,80.78200000000001,Female,75 to 79 years,76
+395,COVID-19,7129.4,80.78200000000001,Female,75 to 79 years,77
+395,COVID-19,7129.4,80.78200000000001,Female,75 to 79 years,78
+395,COVID-19,7129.4,80.78200000000001,Female,75 to 79 years,79
+950,Alzheimer disease and other dementias,7239.72,64.452,Female,75 to 79 years,75
+950,Alzheimer disease and other dementias,7239.72,64.452,Female,75 to 79 years,76
+950,Alzheimer disease and other dementias,7239.72,64.452,Female,75 to 79 years,77
+950,Alzheimer disease and other dementias,7239.72,64.452,Female,75 to 79 years,78
+950,Alzheimer disease and other dementias,7239.72,64.452,Female,75 to 79 years,79
+1180,Chronic obstructive pulmonary disease,6268.47,50.736000000000004,Female,75 to 79 years,75
+1180,Chronic obstructive pulmonary disease,6268.47,50.736000000000004,Female,75 to 79 years,76
+1180,Chronic obstructive pulmonary disease,6268.47,50.736000000000004,Female,75 to 79 years,77
+1180,Chronic obstructive pulmonary disease,6268.47,50.736000000000004,Female,75 to 79 years,78
+1180,Chronic obstructive pulmonary disease,6268.47,50.736000000000004,Female,75 to 79 years,79
+1140,Stroke,4486.9,40.248000000000005,Female,75 to 79 years,75
+1140,Stroke,4486.9,40.248000000000005,Female,75 to 79 years,76
+1140,Stroke,4486.9,40.248000000000005,Female,75 to 79 years,77
+1140,Stroke,4486.9,40.248000000000005,Female,75 to 79 years,78
+1140,Stroke,4486.9,40.248000000000005,Female,75 to 79 years,79
+680,"Trachea, bronchus, lung cancers",3438.89,39.152,Female,75 to 79 years,75
+680,"Trachea, bronchus, lung cancers",3438.89,39.152,Female,75 to 79 years,76
+680,"Trachea, bronchus, lung cancers",3438.89,39.152,Female,75 to 79 years,77
+680,"Trachea, bronchus, lung cancers",3438.89,39.152,Female,75 to 79 years,78
+680,"Trachea, bronchus, lung cancers",3438.89,39.152,Female,75 to 79 years,79
+1270,Kidney diseases,2798.74,25.588,Female,75 to 79 years,75
+1270,Kidney diseases,2798.74,25.588,Female,75 to 79 years,76
+1270,Kidney diseases,2798.74,25.588,Female,75 to 79 years,77
+1270,Kidney diseases,2798.74,25.588,Female,75 to 79 years,78
+1270,Kidney diseases,2798.74,25.588,Female,75 to 79 years,79
+700,Breast cancer,2200.93,21.284,Female,75 to 79 years,75
+700,Breast cancer,2200.93,21.284,Female,75 to 79 years,76
+700,Breast cancer,2200.93,21.284,Female,75 to 79 years,77
+700,Breast cancer,2200.93,21.284,Female,75 to 79 years,78
+700,Breast cancer,2200.93,21.284,Female,75 to 79 years,79
+1120,Hypertensive heart disease,1548.79,17.03,Female,75 to 79 years,75
+1120,Hypertensive heart disease,1548.79,17.03,Female,75 to 79 years,76
+1120,Hypertensive heart disease,1548.79,17.03,Female,75 to 79 years,77
+1120,Hypertensive heart disease,1548.79,17.03,Female,75 to 79 years,78
+1120,Hypertensive heart disease,1548.79,17.03,Female,75 to 79 years,79
+670,Pancreas cancer,1174.47,13.49,Female,75 to 79 years,75
+670,Pancreas cancer,1174.47,13.49,Female,75 to 79 years,76
+670,Pancreas cancer,1174.47,13.49,Female,75 to 79 years,77
+670,Pancreas cancer,1174.47,13.49,Female,75 to 79 years,78
+670,Pancreas cancer,1174.47,13.49,Female,75 to 79 years,79
+950,Alzheimer disease and other dementias,14017.8,165.786,Female,80 to 84 years,80
+950,Alzheimer disease and other dementias,14017.8,165.786,Female,80 to 84 years,81
+950,Alzheimer disease and other dementias,14017.8,165.786,Female,80 to 84 years,82
+950,Alzheimer disease and other dementias,14017.8,165.786,Female,80 to 84 years,83
+950,Alzheimer disease and other dementias,14017.8,165.786,Female,80 to 84 years,84
+1130,Ischaemic heart disease,10500.05,155.296,Female,80 to 84 years,80
+1130,Ischaemic heart disease,10500.05,155.296,Female,80 to 84 years,81
+1130,Ischaemic heart disease,10500.05,155.296,Female,80 to 84 years,82
+1130,Ischaemic heart disease,10500.05,155.296,Female,80 to 84 years,83
+1130,Ischaemic heart disease,10500.05,155.296,Female,80 to 84 years,84
+395,COVID-19,7831.86,116.96,Female,80 to 84 years,80
+395,COVID-19,7831.86,116.96,Female,80 to 84 years,81
+395,COVID-19,7831.86,116.96,Female,80 to 84 years,82
+395,COVID-19,7831.86,116.96,Female,80 to 84 years,83
+395,COVID-19,7831.86,116.96,Female,80 to 84 years,84
+1140,Stroke,6655.79,80.444,Female,80 to 84 years,80
+1140,Stroke,6655.79,80.444,Female,80 to 84 years,81
+1140,Stroke,6655.79,80.444,Female,80 to 84 years,82
+1140,Stroke,6655.79,80.444,Female,80 to 84 years,83
+1140,Stroke,6655.79,80.444,Female,80 to 84 years,84
+1180,Chronic obstructive pulmonary disease,7193.62,76.584,Female,80 to 84 years,80
+1180,Chronic obstructive pulmonary disease,7193.62,76.584,Female,80 to 84 years,81
+1180,Chronic obstructive pulmonary disease,7193.62,76.584,Female,80 to 84 years,82
+1180,Chronic obstructive pulmonary disease,7193.62,76.584,Female,80 to 84 years,83
+1180,Chronic obstructive pulmonary disease,7193.62,76.584,Female,80 to 84 years,84
+680,"Trachea, bronchus, lung cancers",3224.71,48.188,Female,80 to 84 years,80
+680,"Trachea, bronchus, lung cancers",3224.71,48.188,Female,80 to 84 years,81
+680,"Trachea, bronchus, lung cancers",3224.71,48.188,Female,80 to 84 years,82
+680,"Trachea, bronchus, lung cancers",3224.71,48.188,Female,80 to 84 years,83
+680,"Trachea, bronchus, lung cancers",3224.71,48.188,Female,80 to 84 years,84
+1270,Kidney diseases,3438.55,39.92,Female,80 to 84 years,80
+1270,Kidney diseases,3438.55,39.92,Female,80 to 84 years,81
+1270,Kidney diseases,3438.55,39.92,Female,80 to 84 years,82
+1270,Kidney diseases,3438.55,39.92,Female,80 to 84 years,83
+1270,Kidney diseases,3438.55,39.92,Female,80 to 84 years,84
+1120,Hypertensive heart disease,2276.96,33.036,Female,80 to 84 years,80
+1120,Hypertensive heart disease,2276.96,33.036,Female,80 to 84 years,81
+1120,Hypertensive heart disease,2276.96,33.036,Female,80 to 84 years,82
+1120,Hypertensive heart disease,2276.96,33.036,Female,80 to 84 years,83
+1120,Hypertensive heart disease,2276.96,33.036,Female,80 to 84 years,84
+700,Breast cancer,2194.08,27.427999999999997,Female,80 to 84 years,80
+700,Breast cancer,2194.08,27.427999999999997,Female,80 to 84 years,81
+700,Breast cancer,2194.08,27.427999999999997,Female,80 to 84 years,82
+700,Breast cancer,2194.08,27.427999999999997,Female,80 to 84 years,83
+700,Breast cancer,2194.08,27.427999999999997,Female,80 to 84 years,84
+650,Colon and rectum cancers,1453.82,20.072,Female,80 to 84 years,80
+650,Colon and rectum cancers,1453.82,20.072,Female,80 to 84 years,81
+650,Colon and rectum cancers,1453.82,20.072,Female,80 to 84 years,82
+650,Colon and rectum cancers,1453.82,20.072,Female,80 to 84 years,83
+650,Colon and rectum cancers,1453.82,20.072,Female,80 to 84 years,84
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,85
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,86
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,87
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,88
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,89
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,90
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,91
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,92
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,93
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,94
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,95
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,96
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,97
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,98
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,99
+950,Alzheimer disease and other dementias,29764.37,204.976875,Female,85+ years,100
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,85
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,86
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,87
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,88
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,89
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,90
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,91
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,92
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,93
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,94
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,95
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,96
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,97
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,98
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,99
+1130,Ischaemic heart disease,18464.24,154.055625,Female,85+ years,100
+1140,Stroke,10970.88,77.12625,Female,85+ years,85
+1140,Stroke,10970.88,77.12625,Female,85+ years,86
+1140,Stroke,10970.88,77.12625,Female,85+ years,87
+1140,Stroke,10970.88,77.12625,Female,85+ years,88
+1140,Stroke,10970.88,77.12625,Female,85+ years,89
+1140,Stroke,10970.88,77.12625,Female,85+ years,90
+1140,Stroke,10970.88,77.12625,Female,85+ years,91
+1140,Stroke,10970.88,77.12625,Female,85+ years,92
+1140,Stroke,10970.88,77.12625,Female,85+ years,93
+1140,Stroke,10970.88,77.12625,Female,85+ years,94
+1140,Stroke,10970.88,77.12625,Female,85+ years,95
+1140,Stroke,10970.88,77.12625,Female,85+ years,96
+1140,Stroke,10970.88,77.12625,Female,85+ years,97
+1140,Stroke,10970.88,77.12625,Female,85+ years,98
+1140,Stroke,10970.88,77.12625,Female,85+ years,99
+1140,Stroke,10970.88,77.12625,Female,85+ years,100
+395,COVID-19,8372.45,70.30625,Female,85+ years,85
+395,COVID-19,8372.45,70.30625,Female,85+ years,86
+395,COVID-19,8372.45,70.30625,Female,85+ years,87
+395,COVID-19,8372.45,70.30625,Female,85+ years,88
+395,COVID-19,8372.45,70.30625,Female,85+ years,89
+395,COVID-19,8372.45,70.30625,Female,85+ years,90
+395,COVID-19,8372.45,70.30625,Female,85+ years,91
+395,COVID-19,8372.45,70.30625,Female,85+ years,92
+395,COVID-19,8372.45,70.30625,Female,85+ years,93
+395,COVID-19,8372.45,70.30625,Female,85+ years,94
+395,COVID-19,8372.45,70.30625,Female,85+ years,95
+395,COVID-19,8372.45,70.30625,Female,85+ years,96
+395,COVID-19,8372.45,70.30625,Female,85+ years,97
+395,COVID-19,8372.45,70.30625,Female,85+ years,98
+395,COVID-19,8372.45,70.30625,Female,85+ years,99
+395,COVID-19,8372.45,70.30625,Female,85+ years,100
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,85
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,86
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,87
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,88
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,89
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,90
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,91
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,92
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,93
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,94
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,95
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,96
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,97
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,98
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,99
+1180,Chronic obstructive pulmonary disease,7204.69,42.31375,Female,85+ years,100
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,85
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,86
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,87
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,88
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,89
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,90
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,91
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,92
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,93
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,94
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,95
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,96
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,97
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,98
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,99
+1120,Hypertensive heart disease,4826.74,39.705625,Female,85+ years,100
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,85
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,86
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,87
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,88
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,89
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,90
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,91
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,92
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,93
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,94
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,95
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,96
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,97
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,98
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,99
+1270,Kidney diseases,4210.71,24.06375,Female,85+ years,100
+1550,Falls,6131.01,18.94625,Female,85+ years,85
+1550,Falls,6131.01,18.94625,Female,85+ years,86
+1550,Falls,6131.01,18.94625,Female,85+ years,87
+1550,Falls,6131.01,18.94625,Female,85+ years,88
+1550,Falls,6131.01,18.94625,Female,85+ years,89
+1550,Falls,6131.01,18.94625,Female,85+ years,90
+1550,Falls,6131.01,18.94625,Female,85+ years,91
+1550,Falls,6131.01,18.94625,Female,85+ years,92
+1550,Falls,6131.01,18.94625,Female,85+ years,93
+1550,Falls,6131.01,18.94625,Female,85+ years,94
+1550,Falls,6131.01,18.94625,Female,85+ years,95
+1550,Falls,6131.01,18.94625,Female,85+ years,96
+1550,Falls,6131.01,18.94625,Female,85+ years,97
+1550,Falls,6131.01,18.94625,Female,85+ years,98
+1550,Falls,6131.01,18.94625,Female,85+ years,99
+1550,Falls,6131.01,18.94625,Female,85+ years,100
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,85
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,86
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,87
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,88
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,89
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,90
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,91
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,92
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,93
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,94
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,95
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,96
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,97
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,98
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,99
+680,"Trachea, bronchus, lung cancers",1785.93,14.81625,Female,85+ years,100
+700,Breast cancer,2047.49,14.193125,Female,85+ years,85
+700,Breast cancer,2047.49,14.193125,Female,85+ years,86
+700,Breast cancer,2047.49,14.193125,Female,85+ years,87
+700,Breast cancer,2047.49,14.193125,Female,85+ years,88
+700,Breast cancer,2047.49,14.193125,Female,85+ years,89
+700,Breast cancer,2047.49,14.193125,Female,85+ years,90
+700,Breast cancer,2047.49,14.193125,Female,85+ years,91
+700,Breast cancer,2047.49,14.193125,Female,85+ years,92
+700,Breast cancer,2047.49,14.193125,Female,85+ years,93
+700,Breast cancer,2047.49,14.193125,Female,85+ years,94
+700,Breast cancer,2047.49,14.193125,Female,85+ years,95
+700,Breast cancer,2047.49,14.193125,Female,85+ years,96
+700,Breast cancer,2047.49,14.193125,Female,85+ years,97
+700,Breast cancer,2047.49,14.193125,Female,85+ years,98
+700,Breast cancer,2047.49,14.193125,Female,85+ years,99
+700,Breast cancer,2047.49,14.193125,Female,85+ years,100
+500,Preterm birth complications,16602.98,177.2,Male,Under 1 year,0
+1400,Congenital anomalies,14307.74,151.11,Male,Under 1 year,0
+1505,Sudden infant death syndrome,3575.32,38.77,Male,Under 1 year,0
+510,Birth asphyxia and birth trauma,2982.01,31.71,Male,Under 1 year,0
+520,Neonatal sepsis and infections,1556.13,16.67,Male,Under 1 year,0
+390,Lower respiratory infections,1214.47,13.12,Male,Under 1 year,0
+110,Diarrhoeal diseases,790.26,8.42,Male,Under 1 year,0
+1620,Interpersonal violence,673.07,7.18,Male,Under 1 year,0
+1150,"Cardiomyopathy, myocarditis, endocarditis",315.65,3.32,Male,Under 1 year,0
+1530,Road injury,299.71,3.14,Male,Under 1 year,0
+1400,Congenital anomalies,680.6,1.3525,Male,1 to 4 years,1
+1400,Congenital anomalies,680.6,1.3525,Male,1 to 4 years,2
+1400,Congenital anomalies,680.6,1.3525,Male,1 to 4 years,3
+1400,Congenital anomalies,680.6,1.3525,Male,1 to 4 years,4
+1570,Drowning,213.66,0.595,Male,1 to 4 years,1
+1570,Drowning,213.66,0.595,Male,1 to 4 years,2
+1570,Drowning,213.66,0.595,Male,1 to 4 years,3
+1570,Drowning,213.66,0.595,Male,1 to 4 years,4
+1530,Road injury,215.07,0.57,Male,1 to 4 years,1
+1530,Road injury,215.07,0.57,Male,1 to 4 years,2
+1530,Road injury,215.07,0.57,Male,1 to 4 years,3
+1530,Road injury,215.07,0.57,Male,1 to 4 years,4
+1620,Interpersonal violence,184.56,0.4975,Male,1 to 4 years,1
+1620,Interpersonal violence,184.56,0.4975,Male,1 to 4 years,2
+1620,Interpersonal violence,184.56,0.4975,Male,1 to 4 years,3
+1620,Interpersonal violence,184.56,0.4975,Male,1 to 4 years,4
+390,Lower respiratory infections,166.31,0.46,Male,1 to 4 years,1
+390,Lower respiratory infections,166.31,0.46,Male,1 to 4 years,2
+390,Lower respiratory infections,166.31,0.46,Male,1 to 4 years,3
+390,Lower respiratory infections,166.31,0.46,Male,1 to 4 years,4
+770,Leukaemia,65.28,0.17,Male,1 to 4 years,1
+770,Leukaemia,65.28,0.17,Male,1 to 4 years,2
+770,Leukaemia,65.28,0.17,Male,1 to 4 years,3
+770,Leukaemia,65.28,0.17,Male,1 to 4 years,4
+1150,"Cardiomyopathy, myocarditis, endocarditis",78.83,0.1475,Male,1 to 4 years,1
+1150,"Cardiomyopathy, myocarditis, endocarditis",78.83,0.1475,Male,1 to 4 years,2
+1150,"Cardiomyopathy, myocarditis, endocarditis",78.83,0.1475,Male,1 to 4 years,3
+1150,"Cardiomyopathy, myocarditis, endocarditis",78.83,0.1475,Male,1 to 4 years,4
+110,Diarrhoeal diseases,54.37,0.145,Male,1 to 4 years,1
+110,Diarrhoeal diseases,54.37,0.145,Male,1 to 4 years,2
+110,Diarrhoeal diseases,54.37,0.145,Male,1 to 4 years,3
+110,Diarrhoeal diseases,54.37,0.145,Male,1 to 4 years,4
+751,Brain and nervous system cancers,52.08,0.14,Male,1 to 4 years,1
+751,Brain and nervous system cancers,52.08,0.14,Male,1 to 4 years,2
+751,Brain and nervous system cancers,52.08,0.14,Male,1 to 4 years,3
+751,Brain and nervous system cancers,52.08,0.14,Male,1 to 4 years,4
+1560,"Fire, heat and hot substances",48.98,0.13,Male,1 to 4 years,1
+1560,"Fire, heat and hot substances",48.98,0.13,Male,1 to 4 years,2
+1560,"Fire, heat and hot substances",48.98,0.13,Male,1 to 4 years,3
+1560,"Fire, heat and hot substances",48.98,0.13,Male,1 to 4 years,4
+1530,Road injury,186.72,0.40599999999999997,Male,5 to 9 years,5
+1530,Road injury,186.72,0.40599999999999997,Male,5 to 9 years,6
+1530,Road injury,186.72,0.40599999999999997,Male,5 to 9 years,7
+1530,Road injury,186.72,0.40599999999999997,Male,5 to 9 years,8
+1530,Road injury,186.72,0.40599999999999997,Male,5 to 9 years,9
+1570,Drowning,91.23,0.21400000000000002,Male,5 to 9 years,5
+1570,Drowning,91.23,0.21400000000000002,Male,5 to 9 years,6
+1570,Drowning,91.23,0.21400000000000002,Male,5 to 9 years,7
+1570,Drowning,91.23,0.21400000000000002,Male,5 to 9 years,8
+1570,Drowning,91.23,0.21400000000000002,Male,5 to 9 years,9
+1400,Congenital anomalies,207.69,0.20600000000000002,Male,5 to 9 years,5
+1400,Congenital anomalies,207.69,0.20600000000000002,Male,5 to 9 years,6
+1400,Congenital anomalies,207.69,0.20600000000000002,Male,5 to 9 years,7
+1400,Congenital anomalies,207.69,0.20600000000000002,Male,5 to 9 years,8
+1400,Congenital anomalies,207.69,0.20600000000000002,Male,5 to 9 years,9
+751,Brain and nervous system cancers,78.44,0.18,Male,5 to 9 years,5
+751,Brain and nervous system cancers,78.44,0.18,Male,5 to 9 years,6
+751,Brain and nervous system cancers,78.44,0.18,Male,5 to 9 years,7
+751,Brain and nervous system cancers,78.44,0.18,Male,5 to 9 years,8
+751,Brain and nervous system cancers,78.44,0.18,Male,5 to 9 years,9
+1620,Interpersonal violence,60.24,0.122,Male,5 to 9 years,5
+1620,Interpersonal violence,60.24,0.122,Male,5 to 9 years,6
+1620,Interpersonal violence,60.24,0.122,Male,5 to 9 years,7
+1620,Interpersonal violence,60.24,0.122,Male,5 to 9 years,8
+1620,Interpersonal violence,60.24,0.122,Male,5 to 9 years,9
+1560,"Fire, heat and hot substances",55.64,0.118,Male,5 to 9 years,5
+1560,"Fire, heat and hot substances",55.64,0.118,Male,5 to 9 years,6
+1560,"Fire, heat and hot substances",55.64,0.118,Male,5 to 9 years,7
+1560,"Fire, heat and hot substances",55.64,0.118,Male,5 to 9 years,8
+1560,"Fire, heat and hot substances",55.64,0.118,Male,5 to 9 years,9
+1575,Exposure to mechanical forces,52.16,0.088,Male,5 to 9 years,5
+1575,Exposure to mechanical forces,52.16,0.088,Male,5 to 9 years,6
+1575,Exposure to mechanical forces,52.16,0.088,Male,5 to 9 years,7
+1575,Exposure to mechanical forces,52.16,0.088,Male,5 to 9 years,8
+1575,Exposure to mechanical forces,52.16,0.088,Male,5 to 9 years,9
+770,Leukaemia,36.13,0.08199999999999999,Male,5 to 9 years,5
+770,Leukaemia,36.13,0.08199999999999999,Male,5 to 9 years,6
+770,Leukaemia,36.13,0.08199999999999999,Male,5 to 9 years,7
+770,Leukaemia,36.13,0.08199999999999999,Male,5 to 9 years,8
+770,Leukaemia,36.13,0.08199999999999999,Male,5 to 9 years,9
+395,COVID-19,96.37,0.08,Male,5 to 9 years,5
+395,COVID-19,96.37,0.08,Male,5 to 9 years,6
+395,COVID-19,96.37,0.08,Male,5 to 9 years,7
+395,COVID-19,96.37,0.08,Male,5 to 9 years,8
+395,COVID-19,96.37,0.08,Male,5 to 9 years,9
+1190,Asthma,845.83,0.074,Male,5 to 9 years,5
+1190,Asthma,845.83,0.074,Male,5 to 9 years,6
+1190,Asthma,845.83,0.074,Male,5 to 9 years,7
+1190,Asthma,845.83,0.074,Male,5 to 9 years,8
+1190,Asthma,845.83,0.074,Male,5 to 9 years,9
+1610,Self-harm,289.24,0.72,Male,10 to 14 years,10
+1610,Self-harm,289.24,0.72,Male,10 to 14 years,11
+1610,Self-harm,289.24,0.72,Male,10 to 14 years,12
+1610,Self-harm,289.24,0.72,Male,10 to 14 years,13
+1610,Self-harm,289.24,0.72,Male,10 to 14 years,14
+1530,Road injury,250.22,0.5700000000000001,Male,10 to 14 years,10
+1530,Road injury,250.22,0.5700000000000001,Male,10 to 14 years,11
+1530,Road injury,250.22,0.5700000000000001,Male,10 to 14 years,12
+1530,Road injury,250.22,0.5700000000000001,Male,10 to 14 years,13
+1530,Road injury,250.22,0.5700000000000001,Male,10 to 14 years,14
+1400,Congenital anomalies,181.86,0.22799999999999998,Male,10 to 14 years,10
+1400,Congenital anomalies,181.86,0.22799999999999998,Male,10 to 14 years,11
+1400,Congenital anomalies,181.86,0.22799999999999998,Male,10 to 14 years,12
+1400,Congenital anomalies,181.86,0.22799999999999998,Male,10 to 14 years,13
+1400,Congenital anomalies,181.86,0.22799999999999998,Male,10 to 14 years,14
+751,Brain and nervous system cancers,68.56,0.16599999999999998,Male,10 to 14 years,10
+751,Brain and nervous system cancers,68.56,0.16599999999999998,Male,10 to 14 years,11
+751,Brain and nervous system cancers,68.56,0.16599999999999998,Male,10 to 14 years,12
+751,Brain and nervous system cancers,68.56,0.16599999999999998,Male,10 to 14 years,13
+751,Brain and nervous system cancers,68.56,0.16599999999999998,Male,10 to 14 years,14
+1620,Interpersonal violence,78.78,0.16399999999999998,Male,10 to 14 years,10
+1620,Interpersonal violence,78.78,0.16399999999999998,Male,10 to 14 years,11
+1620,Interpersonal violence,78.78,0.16399999999999998,Male,10 to 14 years,12
+1620,Interpersonal violence,78.78,0.16399999999999998,Male,10 to 14 years,13
+1620,Interpersonal violence,78.78,0.16399999999999998,Male,10 to 14 years,14
+770,Leukaemia,59.68,0.146,Male,10 to 14 years,10
+770,Leukaemia,59.68,0.146,Male,10 to 14 years,11
+770,Leukaemia,59.68,0.146,Male,10 to 14 years,12
+770,Leukaemia,59.68,0.146,Male,10 to 14 years,13
+770,Leukaemia,59.68,0.146,Male,10 to 14 years,14
+1570,Drowning,52.07,0.128,Male,10 to 14 years,10
+1570,Drowning,52.07,0.128,Male,10 to 14 years,11
+1570,Drowning,52.07,0.128,Male,10 to 14 years,12
+1570,Drowning,52.07,0.128,Male,10 to 14 years,13
+1570,Drowning,52.07,0.128,Male,10 to 14 years,14
+1575,Exposure to mechanical forces,67.66,0.10200000000000001,Male,10 to 14 years,10
+1575,Exposure to mechanical forces,67.66,0.10200000000000001,Male,10 to 14 years,11
+1575,Exposure to mechanical forces,67.66,0.10200000000000001,Male,10 to 14 years,12
+1575,Exposure to mechanical forces,67.66,0.10200000000000001,Male,10 to 14 years,13
+1575,Exposure to mechanical forces,67.66,0.10200000000000001,Male,10 to 14 years,14
+970,Epilepsy,122.07,0.094,Male,10 to 14 years,10
+970,Epilepsy,122.07,0.094,Male,10 to 14 years,11
+970,Epilepsy,122.07,0.094,Male,10 to 14 years,12
+970,Epilepsy,122.07,0.094,Male,10 to 14 years,13
+970,Epilepsy,122.07,0.094,Male,10 to 14 years,14
+395,COVID-19,106.26,0.076,Male,10 to 14 years,10
+395,COVID-19,106.26,0.076,Male,10 to 14 years,11
+395,COVID-19,106.26,0.076,Male,10 to 14 years,12
+395,COVID-19,106.26,0.076,Male,10 to 14 years,13
+395,COVID-19,106.26,0.076,Male,10 to 14 years,14
+1610,Self-harm,1482.2,3.9299999999999997,Male,15 to 19 years,15
+1610,Self-harm,1482.2,3.9299999999999997,Male,15 to 19 years,16
+1610,Self-harm,1482.2,3.9299999999999997,Male,15 to 19 years,17
+1610,Self-harm,1482.2,3.9299999999999997,Male,15 to 19 years,18
+1610,Self-harm,1482.2,3.9299999999999997,Male,15 to 19 years,19
+1530,Road injury,1382.02,3.5340000000000003,Male,15 to 19 years,15
+1530,Road injury,1382.02,3.5340000000000003,Male,15 to 19 years,16
+1530,Road injury,1382.02,3.5340000000000003,Male,15 to 19 years,17
+1530,Road injury,1382.02,3.5340000000000003,Male,15 to 19 years,18
+1530,Road injury,1382.02,3.5340000000000003,Male,15 to 19 years,19
+1620,Interpersonal violence,960.88,2.4699999999999998,Male,15 to 19 years,15
+1620,Interpersonal violence,960.88,2.4699999999999998,Male,15 to 19 years,16
+1620,Interpersonal violence,960.88,2.4699999999999998,Male,15 to 19 years,17
+1620,Interpersonal violence,960.88,2.4699999999999998,Male,15 to 19 years,18
+1620,Interpersonal violence,960.88,2.4699999999999998,Male,15 to 19 years,19
+870,Drug use disorders,1671.81,2.42,Male,15 to 19 years,15
+870,Drug use disorders,1671.81,2.42,Male,15 to 19 years,16
+870,Drug use disorders,1671.81,2.42,Male,15 to 19 years,17
+870,Drug use disorders,1671.81,2.42,Male,15 to 19 years,18
+870,Drug use disorders,1671.81,2.42,Male,15 to 19 years,19
+395,COVID-19,234.49,0.40199999999999997,Male,15 to 19 years,15
+395,COVID-19,234.49,0.40199999999999997,Male,15 to 19 years,16
+395,COVID-19,234.49,0.40199999999999997,Male,15 to 19 years,17
+395,COVID-19,234.49,0.40199999999999997,Male,15 to 19 years,18
+395,COVID-19,234.49,0.40199999999999997,Male,15 to 19 years,19
+1570,Drowning,148.32,0.392,Male,15 to 19 years,15
+1570,Drowning,148.32,0.392,Male,15 to 19 years,16
+1570,Drowning,148.32,0.392,Male,15 to 19 years,17
+1570,Drowning,148.32,0.392,Male,15 to 19 years,18
+1570,Drowning,148.32,0.392,Male,15 to 19 years,19
+1400,Congenital anomalies,197.18,0.314,Male,15 to 19 years,15
+1400,Congenital anomalies,197.18,0.314,Male,15 to 19 years,16
+1400,Congenital anomalies,197.18,0.314,Male,15 to 19 years,17
+1400,Congenital anomalies,197.18,0.314,Male,15 to 19 years,18
+1400,Congenital anomalies,197.18,0.314,Male,15 to 19 years,19
+1575,Exposure to mechanical forces,133.02,0.24,Male,15 to 19 years,15
+1575,Exposure to mechanical forces,133.02,0.24,Male,15 to 19 years,16
+1575,Exposure to mechanical forces,133.02,0.24,Male,15 to 19 years,17
+1575,Exposure to mechanical forces,133.02,0.24,Male,15 to 19 years,18
+1575,Exposure to mechanical forces,133.02,0.24,Male,15 to 19 years,19
+1150,"Cardiomyopathy, myocarditis, endocarditis",96.76,0.21600000000000003,Male,15 to 19 years,15
+1150,"Cardiomyopathy, myocarditis, endocarditis",96.76,0.21600000000000003,Male,15 to 19 years,16
+1150,"Cardiomyopathy, myocarditis, endocarditis",96.76,0.21600000000000003,Male,15 to 19 years,17
+1150,"Cardiomyopathy, myocarditis, endocarditis",96.76,0.21600000000000003,Male,15 to 19 years,18
+1150,"Cardiomyopathy, myocarditis, endocarditis",96.76,0.21600000000000003,Male,15 to 19 years,19
+770,Leukaemia,73.38,0.192,Male,15 to 19 years,15
+770,Leukaemia,73.38,0.192,Male,15 to 19 years,16
+770,Leukaemia,73.38,0.192,Male,15 to 19 years,17
+770,Leukaemia,73.38,0.192,Male,15 to 19 years,18
+770,Leukaemia,73.38,0.192,Male,15 to 19 years,19
+870,Drug use disorders,5093.29,7.172,Male,20 to 24 years,20
+870,Drug use disorders,5093.29,7.172,Male,20 to 24 years,21
+870,Drug use disorders,5093.29,7.172,Male,20 to 24 years,22
+870,Drug use disorders,5093.29,7.172,Male,20 to 24 years,23
+870,Drug use disorders,5093.29,7.172,Male,20 to 24 years,24
+1610,Self-harm,2281.79,6.470000000000001,Male,20 to 24 years,20
+1610,Self-harm,2281.79,6.470000000000001,Male,20 to 24 years,21
+1610,Self-harm,2281.79,6.470000000000001,Male,20 to 24 years,22
+1610,Self-harm,2281.79,6.470000000000001,Male,20 to 24 years,23
+1610,Self-harm,2281.79,6.470000000000001,Male,20 to 24 years,24
+1530,Road injury,2182.06,5.888,Male,20 to 24 years,20
+1530,Road injury,2182.06,5.888,Male,20 to 24 years,21
+1530,Road injury,2182.06,5.888,Male,20 to 24 years,22
+1530,Road injury,2182.06,5.888,Male,20 to 24 years,23
+1530,Road injury,2182.06,5.888,Male,20 to 24 years,24
+1620,Interpersonal violence,2064.82,5.7219999999999995,Male,20 to 24 years,20
+1620,Interpersonal violence,2064.82,5.7219999999999995,Male,20 to 24 years,21
+1620,Interpersonal violence,2064.82,5.7219999999999995,Male,20 to 24 years,22
+1620,Interpersonal violence,2064.82,5.7219999999999995,Male,20 to 24 years,23
+1620,Interpersonal violence,2064.82,5.7219999999999995,Male,20 to 24 years,24
+395,COVID-19,540.79,1.1640000000000001,Male,20 to 24 years,20
+395,COVID-19,540.79,1.1640000000000001,Male,20 to 24 years,21
+395,COVID-19,540.79,1.1640000000000001,Male,20 to 24 years,22
+395,COVID-19,540.79,1.1640000000000001,Male,20 to 24 years,23
+395,COVID-19,540.79,1.1640000000000001,Male,20 to 24 years,24
+1570,Drowning,118.02,0.33399999999999996,Male,20 to 24 years,20
+1570,Drowning,118.02,0.33399999999999996,Male,20 to 24 years,21
+1570,Drowning,118.02,0.33399999999999996,Male,20 to 24 years,22
+1570,Drowning,118.02,0.33399999999999996,Male,20 to 24 years,23
+1570,Drowning,118.02,0.33399999999999996,Male,20 to 24 years,24
+800,Diabetes mellitus,176.45,0.288,Male,20 to 24 years,20
+800,Diabetes mellitus,176.45,0.288,Male,20 to 24 years,21
+800,Diabetes mellitus,176.45,0.288,Male,20 to 24 years,22
+800,Diabetes mellitus,176.45,0.288,Male,20 to 24 years,23
+800,Diabetes mellitus,176.45,0.288,Male,20 to 24 years,24
+1575,Exposure to mechanical forces,152.57,0.27,Male,20 to 24 years,20
+1575,Exposure to mechanical forces,152.57,0.27,Male,20 to 24 years,21
+1575,Exposure to mechanical forces,152.57,0.27,Male,20 to 24 years,22
+1575,Exposure to mechanical forces,152.57,0.27,Male,20 to 24 years,23
+1575,Exposure to mechanical forces,152.57,0.27,Male,20 to 24 years,24
+1400,Congenital anomalies,158.27,0.266,Male,20 to 24 years,20
+1400,Congenital anomalies,158.27,0.266,Male,20 to 24 years,21
+1400,Congenital anomalies,158.27,0.266,Male,20 to 24 years,22
+1400,Congenital anomalies,158.27,0.266,Male,20 to 24 years,23
+1400,Congenital anomalies,158.27,0.266,Male,20 to 24 years,24
+1150,"Cardiomyopathy, myocarditis, endocarditis",105.33,0.256,Male,20 to 24 years,20
+1150,"Cardiomyopathy, myocarditis, endocarditis",105.33,0.256,Male,20 to 24 years,21
+1150,"Cardiomyopathy, myocarditis, endocarditis",105.33,0.256,Male,20 to 24 years,22
+1150,"Cardiomyopathy, myocarditis, endocarditis",105.33,0.256,Male,20 to 24 years,23
+1150,"Cardiomyopathy, myocarditis, endocarditis",105.33,0.256,Male,20 to 24 years,24
+870,Drug use disorders,7567.05,13.76,Male,25 to 29 years,25
+870,Drug use disorders,7567.05,13.76,Male,25 to 29 years,26
+870,Drug use disorders,7567.05,13.76,Male,25 to 29 years,27
+870,Drug use disorders,7567.05,13.76,Male,25 to 29 years,28
+870,Drug use disorders,7567.05,13.76,Male,25 to 29 years,29
+1610,Self-harm,2257.12,6.878,Male,25 to 29 years,25
+1610,Self-harm,2257.12,6.878,Male,25 to 29 years,26
+1610,Self-harm,2257.12,6.878,Male,25 to 29 years,27
+1610,Self-harm,2257.12,6.878,Male,25 to 29 years,28
+1610,Self-harm,2257.12,6.878,Male,25 to 29 years,29
+1530,Road injury,2142.84,6.034000000000001,Male,25 to 29 years,25
+1530,Road injury,2142.84,6.034000000000001,Male,25 to 29 years,26
+1530,Road injury,2142.84,6.034000000000001,Male,25 to 29 years,27
+1530,Road injury,2142.84,6.034000000000001,Male,25 to 29 years,28
+1530,Road injury,2142.84,6.034000000000001,Male,25 to 29 years,29
+1620,Interpersonal violence,1423.66,4.168,Male,25 to 29 years,25
+1620,Interpersonal violence,1423.66,4.168,Male,25 to 29 years,26
+1620,Interpersonal violence,1423.66,4.168,Male,25 to 29 years,27
+1620,Interpersonal violence,1423.66,4.168,Male,25 to 29 years,28
+1620,Interpersonal violence,1423.66,4.168,Male,25 to 29 years,29
+395,COVID-19,903.89,2.386,Male,25 to 29 years,25
+395,COVID-19,903.89,2.386,Male,25 to 29 years,26
+395,COVID-19,903.89,2.386,Male,25 to 29 years,27
+395,COVID-19,903.89,2.386,Male,25 to 29 years,28
+395,COVID-19,903.89,2.386,Male,25 to 29 years,29
+860,Alcohol use disorders,744.42,0.61,Male,25 to 29 years,25
+860,Alcohol use disorders,744.42,0.61,Male,25 to 29 years,26
+860,Alcohol use disorders,744.42,0.61,Male,25 to 29 years,27
+860,Alcohol use disorders,744.42,0.61,Male,25 to 29 years,28
+860,Alcohol use disorders,744.42,0.61,Male,25 to 29 years,29
+1230,Cirrhosis of the liver,192.18,0.5780000000000001,Male,25 to 29 years,25
+1230,Cirrhosis of the liver,192.18,0.5780000000000001,Male,25 to 29 years,26
+1230,Cirrhosis of the liver,192.18,0.5780000000000001,Male,25 to 29 years,27
+1230,Cirrhosis of the liver,192.18,0.5780000000000001,Male,25 to 29 years,28
+1230,Cirrhosis of the liver,192.18,0.5780000000000001,Male,25 to 29 years,29
+1130,Ischaemic heart disease,184.39,0.548,Male,25 to 29 years,25
+1130,Ischaemic heart disease,184.39,0.548,Male,25 to 29 years,26
+1130,Ischaemic heart disease,184.39,0.548,Male,25 to 29 years,27
+1130,Ischaemic heart disease,184.39,0.548,Male,25 to 29 years,28
+1130,Ischaemic heart disease,184.39,0.548,Male,25 to 29 years,29
+800,Diabetes mellitus,278.86,0.528,Male,25 to 29 years,25
+800,Diabetes mellitus,278.86,0.528,Male,25 to 29 years,26
+800,Diabetes mellitus,278.86,0.528,Male,25 to 29 years,27
+800,Diabetes mellitus,278.86,0.528,Male,25 to 29 years,28
+800,Diabetes mellitus,278.86,0.528,Male,25 to 29 years,29
+1150,"Cardiomyopathy, myocarditis, endocarditis",163.87,0.45999999999999996,Male,25 to 29 years,25
+1150,"Cardiomyopathy, myocarditis, endocarditis",163.87,0.45999999999999996,Male,25 to 29 years,26
+1150,"Cardiomyopathy, myocarditis, endocarditis",163.87,0.45999999999999996,Male,25 to 29 years,27
+1150,"Cardiomyopathy, myocarditis, endocarditis",163.87,0.45999999999999996,Male,25 to 29 years,28
+1150,"Cardiomyopathy, myocarditis, endocarditis",163.87,0.45999999999999996,Male,25 to 29 years,29
+870,Drug use disorders,7758.44,17.532,Male,30 to 34 years,30
+870,Drug use disorders,7758.44,17.532,Male,30 to 34 years,31
+870,Drug use disorders,7758.44,17.532,Male,30 to 34 years,32
+870,Drug use disorders,7758.44,17.532,Male,30 to 34 years,33
+870,Drug use disorders,7758.44,17.532,Male,30 to 34 years,34
+1610,Self-harm,2040.17,6.715999999999999,Male,30 to 34 years,30
+1610,Self-harm,2040.17,6.715999999999999,Male,30 to 34 years,31
+1610,Self-harm,2040.17,6.715999999999999,Male,30 to 34 years,32
+1610,Self-harm,2040.17,6.715999999999999,Male,30 to 34 years,33
+1610,Self-harm,2040.17,6.715999999999999,Male,30 to 34 years,34
+1530,Road injury,1971.21,5.7780000000000005,Male,30 to 34 years,30
+1530,Road injury,1971.21,5.7780000000000005,Male,30 to 34 years,31
+1530,Road injury,1971.21,5.7780000000000005,Male,30 to 34 years,32
+1530,Road injury,1971.21,5.7780000000000005,Male,30 to 34 years,33
+1530,Road injury,1971.21,5.7780000000000005,Male,30 to 34 years,34
+395,COVID-19,1450.43,4.41,Male,30 to 34 years,30
+395,COVID-19,1450.43,4.41,Male,30 to 34 years,31
+395,COVID-19,1450.43,4.41,Male,30 to 34 years,32
+395,COVID-19,1450.43,4.41,Male,30 to 34 years,33
+395,COVID-19,1450.43,4.41,Male,30 to 34 years,34
+1620,Interpersonal violence,1126.91,3.4899999999999998,Male,30 to 34 years,30
+1620,Interpersonal violence,1126.91,3.4899999999999998,Male,30 to 34 years,31
+1620,Interpersonal violence,1126.91,3.4899999999999998,Male,30 to 34 years,32
+1620,Interpersonal violence,1126.91,3.4899999999999998,Male,30 to 34 years,33
+1620,Interpersonal violence,1126.91,3.4899999999999998,Male,30 to 34 years,34
+1230,Cirrhosis of the liver,461.07,1.514,Male,30 to 34 years,30
+1230,Cirrhosis of the liver,461.07,1.514,Male,30 to 34 years,31
+1230,Cirrhosis of the liver,461.07,1.514,Male,30 to 34 years,32
+1230,Cirrhosis of the liver,461.07,1.514,Male,30 to 34 years,33
+1230,Cirrhosis of the liver,461.07,1.514,Male,30 to 34 years,34
+1130,Ischaemic heart disease,413.44,1.342,Male,30 to 34 years,30
+1130,Ischaemic heart disease,413.44,1.342,Male,30 to 34 years,31
+1130,Ischaemic heart disease,413.44,1.342,Male,30 to 34 years,32
+1130,Ischaemic heart disease,413.44,1.342,Male,30 to 34 years,33
+1130,Ischaemic heart disease,413.44,1.342,Male,30 to 34 years,34
+860,Alcohol use disorders,900.01,1.208,Male,30 to 34 years,30
+860,Alcohol use disorders,900.01,1.208,Male,30 to 34 years,31
+860,Alcohol use disorders,900.01,1.208,Male,30 to 34 years,32
+860,Alcohol use disorders,900.01,1.208,Male,30 to 34 years,33
+860,Alcohol use disorders,900.01,1.208,Male,30 to 34 years,34
+800,Diabetes mellitus,426.82,0.796,Male,30 to 34 years,30
+800,Diabetes mellitus,426.82,0.796,Male,30 to 34 years,31
+800,Diabetes mellitus,426.82,0.796,Male,30 to 34 years,32
+800,Diabetes mellitus,426.82,0.796,Male,30 to 34 years,33
+800,Diabetes mellitus,426.82,0.796,Male,30 to 34 years,34
+1150,"Cardiomyopathy, myocarditis, endocarditis",237.08,0.748,Male,30 to 34 years,30
+1150,"Cardiomyopathy, myocarditis, endocarditis",237.08,0.748,Male,30 to 34 years,31
+1150,"Cardiomyopathy, myocarditis, endocarditis",237.08,0.748,Male,30 to 34 years,32
+1150,"Cardiomyopathy, myocarditis, endocarditis",237.08,0.748,Male,30 to 34 years,33
+1150,"Cardiomyopathy, myocarditis, endocarditis",237.08,0.748,Male,30 to 34 years,34
+870,Drug use disorders,6853.35,18.07,Male,35 to 39 years,35
+870,Drug use disorders,6853.35,18.07,Male,35 to 39 years,36
+870,Drug use disorders,6853.35,18.07,Male,35 to 39 years,37
+870,Drug use disorders,6853.35,18.07,Male,35 to 39 years,38
+870,Drug use disorders,6853.35,18.07,Male,35 to 39 years,39
+395,COVID-19,2105.76,7.154000000000001,Male,35 to 39 years,35
+395,COVID-19,2105.76,7.154000000000001,Male,35 to 39 years,36
+395,COVID-19,2105.76,7.154000000000001,Male,35 to 39 years,37
+395,COVID-19,2105.76,7.154000000000001,Male,35 to 39 years,38
+395,COVID-19,2105.76,7.154000000000001,Male,35 to 39 years,39
+1610,Self-harm,1743.73,6.24,Male,35 to 39 years,35
+1610,Self-harm,1743.73,6.24,Male,35 to 39 years,36
+1610,Self-harm,1743.73,6.24,Male,35 to 39 years,37
+1610,Self-harm,1743.73,6.24,Male,35 to 39 years,38
+1610,Self-harm,1743.73,6.24,Male,35 to 39 years,39
+1530,Road injury,1699.31,5.13,Male,35 to 39 years,35
+1530,Road injury,1699.31,5.13,Male,35 to 39 years,36
+1530,Road injury,1699.31,5.13,Male,35 to 39 years,37
+1530,Road injury,1699.31,5.13,Male,35 to 39 years,38
+1530,Road injury,1699.31,5.13,Male,35 to 39 years,39
+1230,Cirrhosis of the liver,816.75,2.93,Male,35 to 39 years,35
+1230,Cirrhosis of the liver,816.75,2.93,Male,35 to 39 years,36
+1230,Cirrhosis of the liver,816.75,2.93,Male,35 to 39 years,37
+1230,Cirrhosis of the liver,816.75,2.93,Male,35 to 39 years,38
+1230,Cirrhosis of the liver,816.75,2.93,Male,35 to 39 years,39
+1130,Ischaemic heart disease,810.09,2.888,Male,35 to 39 years,35
+1130,Ischaemic heart disease,810.09,2.888,Male,35 to 39 years,36
+1130,Ischaemic heart disease,810.09,2.888,Male,35 to 39 years,37
+1130,Ischaemic heart disease,810.09,2.888,Male,35 to 39 years,38
+1130,Ischaemic heart disease,810.09,2.888,Male,35 to 39 years,39
+1620,Interpersonal violence,881.43,2.884,Male,35 to 39 years,35
+1620,Interpersonal violence,881.43,2.884,Male,35 to 39 years,36
+1620,Interpersonal violence,881.43,2.884,Male,35 to 39 years,37
+1620,Interpersonal violence,881.43,2.884,Male,35 to 39 years,38
+1620,Interpersonal violence,881.43,2.884,Male,35 to 39 years,39
+860,Alcohol use disorders,997.89,1.846,Male,35 to 39 years,35
+860,Alcohol use disorders,997.89,1.846,Male,35 to 39 years,36
+860,Alcohol use disorders,997.89,1.846,Male,35 to 39 years,37
+860,Alcohol use disorders,997.89,1.846,Male,35 to 39 years,38
+860,Alcohol use disorders,997.89,1.846,Male,35 to 39 years,39
+1120,Hypertensive heart disease,341.19,1.204,Male,35 to 39 years,35
+1120,Hypertensive heart disease,341.19,1.204,Male,35 to 39 years,36
+1120,Hypertensive heart disease,341.19,1.204,Male,35 to 39 years,37
+1120,Hypertensive heart disease,341.19,1.204,Male,35 to 39 years,38
+1120,Hypertensive heart disease,341.19,1.204,Male,35 to 39 years,39
+800,Diabetes mellitus,668.68,1.114,Male,35 to 39 years,35
+800,Diabetes mellitus,668.68,1.114,Male,35 to 39 years,36
+800,Diabetes mellitus,668.68,1.114,Male,35 to 39 years,37
+800,Diabetes mellitus,668.68,1.114,Male,35 to 39 years,38
+800,Diabetes mellitus,668.68,1.114,Male,35 to 39 years,39
+870,Drug use disorders,5677.86,17.024,Male,40 to 44 years,40
+870,Drug use disorders,5677.86,17.024,Male,40 to 44 years,41
+870,Drug use disorders,5677.86,17.024,Male,40 to 44 years,42
+870,Drug use disorders,5677.86,17.024,Male,40 to 44 years,43
+870,Drug use disorders,5677.86,17.024,Male,40 to 44 years,44
+395,COVID-19,2990.45,11.346,Male,40 to 44 years,40
+395,COVID-19,2990.45,11.346,Male,40 to 44 years,41
+395,COVID-19,2990.45,11.346,Male,40 to 44 years,42
+395,COVID-19,2990.45,11.346,Male,40 to 44 years,43
+395,COVID-19,2990.45,11.346,Male,40 to 44 years,44
+1130,Ischaemic heart disease,1715.04,6.742,Male,40 to 44 years,40
+1130,Ischaemic heart disease,1715.04,6.742,Male,40 to 44 years,41
+1130,Ischaemic heart disease,1715.04,6.742,Male,40 to 44 years,42
+1130,Ischaemic heart disease,1715.04,6.742,Male,40 to 44 years,43
+1130,Ischaemic heart disease,1715.04,6.742,Male,40 to 44 years,44
+1610,Self-harm,1500.87,5.88,Male,40 to 44 years,40
+1610,Self-harm,1500.87,5.88,Male,40 to 44 years,41
+1610,Self-harm,1500.87,5.88,Male,40 to 44 years,42
+1610,Self-harm,1500.87,5.88,Male,40 to 44 years,43
+1610,Self-harm,1500.87,5.88,Male,40 to 44 years,44
+1530,Road injury,1557.03,4.862,Male,40 to 44 years,40
+1530,Road injury,1557.03,4.862,Male,40 to 44 years,41
+1530,Road injury,1557.03,4.862,Male,40 to 44 years,42
+1530,Road injury,1557.03,4.862,Male,40 to 44 years,43
+1530,Road injury,1557.03,4.862,Male,40 to 44 years,44
+1230,Cirrhosis of the liver,1049.05,4.13,Male,40 to 44 years,40
+1230,Cirrhosis of the liver,1049.05,4.13,Male,40 to 44 years,41
+1230,Cirrhosis of the liver,1049.05,4.13,Male,40 to 44 years,42
+1230,Cirrhosis of the liver,1049.05,4.13,Male,40 to 44 years,43
+1230,Cirrhosis of the liver,1049.05,4.13,Male,40 to 44 years,44
+860,Alcohol use disorders,1004.99,2.2399999999999998,Male,40 to 44 years,40
+860,Alcohol use disorders,1004.99,2.2399999999999998,Male,40 to 44 years,41
+860,Alcohol use disorders,1004.99,2.2399999999999998,Male,40 to 44 years,42
+860,Alcohol use disorders,1004.99,2.2399999999999998,Male,40 to 44 years,43
+860,Alcohol use disorders,1004.99,2.2399999999999998,Male,40 to 44 years,44
+1120,Hypertensive heart disease,560.18,2.192,Male,40 to 44 years,40
+1120,Hypertensive heart disease,560.18,2.192,Male,40 to 44 years,41
+1120,Hypertensive heart disease,560.18,2.192,Male,40 to 44 years,42
+1120,Hypertensive heart disease,560.18,2.192,Male,40 to 44 years,43
+1120,Hypertensive heart disease,560.18,2.192,Male,40 to 44 years,44
+1620,Interpersonal violence,626.91,2.132,Male,40 to 44 years,40
+1620,Interpersonal violence,626.91,2.132,Male,40 to 44 years,41
+1620,Interpersonal violence,626.91,2.132,Male,40 to 44 years,42
+1620,Interpersonal violence,626.91,2.132,Male,40 to 44 years,43
+1620,Interpersonal violence,626.91,2.132,Male,40 to 44 years,44
+800,Diabetes mellitus,1057.42,1.656,Male,40 to 44 years,40
+800,Diabetes mellitus,1057.42,1.656,Male,40 to 44 years,41
+800,Diabetes mellitus,1057.42,1.656,Male,40 to 44 years,42
+800,Diabetes mellitus,1057.42,1.656,Male,40 to 44 years,43
+800,Diabetes mellitus,1057.42,1.656,Male,40 to 44 years,44
+395,COVID-19,4345.98,18.494,Male,45 to 49 years,45
+395,COVID-19,4345.98,18.494,Male,45 to 49 years,46
+395,COVID-19,4345.98,18.494,Male,45 to 49 years,47
+395,COVID-19,4345.98,18.494,Male,45 to 49 years,48
+395,COVID-19,4345.98,18.494,Male,45 to 49 years,49
+870,Drug use disorders,4357.56,14.532,Male,45 to 49 years,45
+870,Drug use disorders,4357.56,14.532,Male,45 to 49 years,46
+870,Drug use disorders,4357.56,14.532,Male,45 to 49 years,47
+870,Drug use disorders,4357.56,14.532,Male,45 to 49 years,48
+870,Drug use disorders,4357.56,14.532,Male,45 to 49 years,49
+1130,Ischaemic heart disease,2689.94,11.696,Male,45 to 49 years,45
+1130,Ischaemic heart disease,2689.94,11.696,Male,45 to 49 years,46
+1130,Ischaemic heart disease,2689.94,11.696,Male,45 to 49 years,47
+1130,Ischaemic heart disease,2689.94,11.696,Male,45 to 49 years,48
+1130,Ischaemic heart disease,2689.94,11.696,Male,45 to 49 years,49
+1610,Self-harm,1324.52,5.732,Male,45 to 49 years,45
+1610,Self-harm,1324.52,5.732,Male,45 to 49 years,46
+1610,Self-harm,1324.52,5.732,Male,45 to 49 years,47
+1610,Self-harm,1324.52,5.732,Male,45 to 49 years,48
+1610,Self-harm,1324.52,5.732,Male,45 to 49 years,49
+1230,Cirrhosis of the liver,1265.83,5.5200000000000005,Male,45 to 49 years,45
+1230,Cirrhosis of the liver,1265.83,5.5200000000000005,Male,45 to 49 years,46
+1230,Cirrhosis of the liver,1265.83,5.5200000000000005,Male,45 to 49 years,47
+1230,Cirrhosis of the liver,1265.83,5.5200000000000005,Male,45 to 49 years,48
+1230,Cirrhosis of the liver,1265.83,5.5200000000000005,Male,45 to 49 years,49
+1530,Road injury,1402.15,4.502000000000001,Male,45 to 49 years,45
+1530,Road injury,1402.15,4.502000000000001,Male,45 to 49 years,46
+1530,Road injury,1402.15,4.502000000000001,Male,45 to 49 years,47
+1530,Road injury,1402.15,4.502000000000001,Male,45 to 49 years,48
+1530,Road injury,1402.15,4.502000000000001,Male,45 to 49 years,49
+1120,Hypertensive heart disease,761.77,3.29,Male,45 to 49 years,45
+1120,Hypertensive heart disease,761.77,3.29,Male,45 to 49 years,46
+1120,Hypertensive heart disease,761.77,3.29,Male,45 to 49 years,47
+1120,Hypertensive heart disease,761.77,3.29,Male,45 to 49 years,48
+1120,Hypertensive heart disease,761.77,3.29,Male,45 to 49 years,49
+860,Alcohol use disorders,1087.5,2.95,Male,45 to 49 years,45
+860,Alcohol use disorders,1087.5,2.95,Male,45 to 49 years,46
+860,Alcohol use disorders,1087.5,2.95,Male,45 to 49 years,47
+860,Alcohol use disorders,1087.5,2.95,Male,45 to 49 years,48
+860,Alcohol use disorders,1087.5,2.95,Male,45 to 49 years,49
+800,Diabetes mellitus,1620.41,2.614,Male,45 to 49 years,45
+800,Diabetes mellitus,1620.41,2.614,Male,45 to 49 years,46
+800,Diabetes mellitus,1620.41,2.614,Male,45 to 49 years,47
+800,Diabetes mellitus,1620.41,2.614,Male,45 to 49 years,48
+800,Diabetes mellitus,1620.41,2.614,Male,45 to 49 years,49
+1140,Stroke,743.69,2.6,Male,45 to 49 years,45
+1140,Stroke,743.69,2.6,Male,45 to 49 years,46
+1140,Stroke,743.69,2.6,Male,45 to 49 years,47
+1140,Stroke,743.69,2.6,Male,45 to 49 years,48
+1140,Stroke,743.69,2.6,Male,45 to 49 years,49
+395,COVID-19,5616.4,27.03,Male,50 to 54 years,50
+395,COVID-19,5616.4,27.03,Male,50 to 54 years,51
+395,COVID-19,5616.4,27.03,Male,50 to 54 years,52
+395,COVID-19,5616.4,27.03,Male,50 to 54 years,53
+395,COVID-19,5616.4,27.03,Male,50 to 54 years,54
+1130,Ischaemic heart disease,4472.38,21.776,Male,50 to 54 years,50
+1130,Ischaemic heart disease,4472.38,21.776,Male,50 to 54 years,51
+1130,Ischaemic heart disease,4472.38,21.776,Male,50 to 54 years,52
+1130,Ischaemic heart disease,4472.38,21.776,Male,50 to 54 years,53
+1130,Ischaemic heart disease,4472.38,21.776,Male,50 to 54 years,54
+870,Drug use disorders,3698.5,14.37,Male,50 to 54 years,50
+870,Drug use disorders,3698.5,14.37,Male,50 to 54 years,51
+870,Drug use disorders,3698.5,14.37,Male,50 to 54 years,52
+870,Drug use disorders,3698.5,14.37,Male,50 to 54 years,53
+870,Drug use disorders,3698.5,14.37,Male,50 to 54 years,54
+1230,Cirrhosis of the liver,1627.95,7.95,Male,50 to 54 years,50
+1230,Cirrhosis of the liver,1627.95,7.95,Male,50 to 54 years,51
+1230,Cirrhosis of the liver,1627.95,7.95,Male,50 to 54 years,52
+1230,Cirrhosis of the liver,1627.95,7.95,Male,50 to 54 years,53
+1230,Cirrhosis of the liver,1627.95,7.95,Male,50 to 54 years,54
+1610,Self-harm,1182.65,5.715999999999999,Male,50 to 54 years,50
+1610,Self-harm,1182.65,5.715999999999999,Male,50 to 54 years,51
+1610,Self-harm,1182.65,5.715999999999999,Male,50 to 54 years,52
+1610,Self-harm,1182.65,5.715999999999999,Male,50 to 54 years,53
+1610,Self-harm,1182.65,5.715999999999999,Male,50 to 54 years,54
+1120,Hypertensive heart disease,1024.99,4.952,Male,50 to 54 years,50
+1120,Hypertensive heart disease,1024.99,4.952,Male,50 to 54 years,51
+1120,Hypertensive heart disease,1024.99,4.952,Male,50 to 54 years,52
+1120,Hypertensive heart disease,1024.99,4.952,Male,50 to 54 years,53
+1120,Hypertensive heart disease,1024.99,4.952,Male,50 to 54 years,54
+1530,Road injury,1417.44,4.892,Male,50 to 54 years,50
+1530,Road injury,1417.44,4.892,Male,50 to 54 years,51
+1530,Road injury,1417.44,4.892,Male,50 to 54 years,52
+1530,Road injury,1417.44,4.892,Male,50 to 54 years,53
+1530,Road injury,1417.44,4.892,Male,50 to 54 years,54
+1140,Stroke,1082.54,4.262,Male,50 to 54 years,50
+1140,Stroke,1082.54,4.262,Male,50 to 54 years,51
+1140,Stroke,1082.54,4.262,Male,50 to 54 years,52
+1140,Stroke,1082.54,4.262,Male,50 to 54 years,53
+1140,Stroke,1082.54,4.262,Male,50 to 54 years,54
+800,Diabetes mellitus,2365.44,4.228,Male,50 to 54 years,50
+800,Diabetes mellitus,2365.44,4.228,Male,50 to 54 years,51
+800,Diabetes mellitus,2365.44,4.228,Male,50 to 54 years,52
+800,Diabetes mellitus,2365.44,4.228,Male,50 to 54 years,53
+800,Diabetes mellitus,2365.44,4.228,Male,50 to 54 years,54
+650,Colon and rectum cancers,810.14,3.7619999999999996,Male,50 to 54 years,50
+650,Colon and rectum cancers,810.14,3.7619999999999996,Male,50 to 54 years,51
+650,Colon and rectum cancers,810.14,3.7619999999999996,Male,50 to 54 years,52
+650,Colon and rectum cancers,810.14,3.7619999999999996,Male,50 to 54 years,53
+650,Colon and rectum cancers,810.14,3.7619999999999996,Male,50 to 54 years,54
+395,COVID-19,6709.11,36.833999999999996,Male,55 to 59 years,55
+395,COVID-19,6709.11,36.833999999999996,Male,55 to 59 years,56
+395,COVID-19,6709.11,36.833999999999996,Male,55 to 59 years,57
+395,COVID-19,6709.11,36.833999999999996,Male,55 to 59 years,58
+395,COVID-19,6709.11,36.833999999999996,Male,55 to 59 years,59
+1130,Ischaemic heart disease,6594.23,36.452,Male,55 to 59 years,55
+1130,Ischaemic heart disease,6594.23,36.452,Male,55 to 59 years,56
+1130,Ischaemic heart disease,6594.23,36.452,Male,55 to 59 years,57
+1130,Ischaemic heart disease,6594.23,36.452,Male,55 to 59 years,58
+1130,Ischaemic heart disease,6594.23,36.452,Male,55 to 59 years,59
+870,Drug use disorders,3024.12,14.191999999999998,Male,55 to 59 years,55
+870,Drug use disorders,3024.12,14.191999999999998,Male,55 to 59 years,56
+870,Drug use disorders,3024.12,14.191999999999998,Male,55 to 59 years,57
+870,Drug use disorders,3024.12,14.191999999999998,Male,55 to 59 years,58
+870,Drug use disorders,3024.12,14.191999999999998,Male,55 to 59 years,59
+1230,Cirrhosis of the liver,1932.96,10.724,Male,55 to 59 years,55
+1230,Cirrhosis of the liver,1932.96,10.724,Male,55 to 59 years,56
+1230,Cirrhosis of the liver,1932.96,10.724,Male,55 to 59 years,57
+1230,Cirrhosis of the liver,1932.96,10.724,Male,55 to 59 years,58
+1230,Cirrhosis of the liver,1932.96,10.724,Male,55 to 59 years,59
+680,"Trachea, bronchus, lung cancers",1678.25,9.258,Male,55 to 59 years,55
+680,"Trachea, bronchus, lung cancers",1678.25,9.258,Male,55 to 59 years,56
+680,"Trachea, bronchus, lung cancers",1678.25,9.258,Male,55 to 59 years,57
+680,"Trachea, bronchus, lung cancers",1678.25,9.258,Male,55 to 59 years,58
+680,"Trachea, bronchus, lung cancers",1678.25,9.258,Male,55 to 59 years,59
+1120,Hypertensive heart disease,1263.3,6.942,Male,55 to 59 years,55
+1120,Hypertensive heart disease,1263.3,6.942,Male,55 to 59 years,56
+1120,Hypertensive heart disease,1263.3,6.942,Male,55 to 59 years,57
+1120,Hypertensive heart disease,1263.3,6.942,Male,55 to 59 years,58
+1120,Hypertensive heart disease,1263.3,6.942,Male,55 to 59 years,59
+1140,Stroke,1510.04,6.720000000000001,Male,55 to 59 years,55
+1140,Stroke,1510.04,6.720000000000001,Male,55 to 59 years,56
+1140,Stroke,1510.04,6.720000000000001,Male,55 to 59 years,57
+1140,Stroke,1510.04,6.720000000000001,Male,55 to 59 years,58
+1140,Stroke,1510.04,6.720000000000001,Male,55 to 59 years,59
+800,Diabetes mellitus,3290.58,6.436,Male,55 to 59 years,55
+800,Diabetes mellitus,3290.58,6.436,Male,55 to 59 years,56
+800,Diabetes mellitus,3290.58,6.436,Male,55 to 59 years,57
+800,Diabetes mellitus,3290.58,6.436,Male,55 to 59 years,58
+800,Diabetes mellitus,3290.58,6.436,Male,55 to 59 years,59
+1270,Kidney diseases,1316.79,6.004,Male,55 to 59 years,55
+1270,Kidney diseases,1316.79,6.004,Male,55 to 59 years,56
+1270,Kidney diseases,1316.79,6.004,Male,55 to 59 years,57
+1270,Kidney diseases,1316.79,6.004,Male,55 to 59 years,58
+1270,Kidney diseases,1316.79,6.004,Male,55 to 59 years,59
+1180,Chronic obstructive pulmonary disease,1515.07,5.928,Male,55 to 59 years,55
+1180,Chronic obstructive pulmonary disease,1515.07,5.928,Male,55 to 59 years,56
+1180,Chronic obstructive pulmonary disease,1515.07,5.928,Male,55 to 59 years,57
+1180,Chronic obstructive pulmonary disease,1515.07,5.928,Male,55 to 59 years,58
+1180,Chronic obstructive pulmonary disease,1515.07,5.928,Male,55 to 59 years,59
+1130,Ischaemic heart disease,8790.55,56.013999999999996,Male,60 to 64 years,60
+1130,Ischaemic heart disease,8790.55,56.013999999999996,Male,60 to 64 years,61
+1130,Ischaemic heart disease,8790.55,56.013999999999996,Male,60 to 64 years,62
+1130,Ischaemic heart disease,8790.55,56.013999999999996,Male,60 to 64 years,63
+1130,Ischaemic heart disease,8790.55,56.013999999999996,Male,60 to 64 years,64
+395,COVID-19,7835.79,49.886,Male,60 to 64 years,60
+395,COVID-19,7835.79,49.886,Male,60 to 64 years,61
+395,COVID-19,7835.79,49.886,Male,60 to 64 years,62
+395,COVID-19,7835.79,49.886,Male,60 to 64 years,63
+395,COVID-19,7835.79,49.886,Male,60 to 64 years,64
+680,"Trachea, bronchus, lung cancers",2839.98,18.102,Male,60 to 64 years,60
+680,"Trachea, bronchus, lung cancers",2839.98,18.102,Male,60 to 64 years,61
+680,"Trachea, bronchus, lung cancers",2839.98,18.102,Male,60 to 64 years,62
+680,"Trachea, bronchus, lung cancers",2839.98,18.102,Male,60 to 64 years,63
+680,"Trachea, bronchus, lung cancers",2839.98,18.102,Male,60 to 64 years,64
+1180,Chronic obstructive pulmonary disease,2671.71,13.091999999999999,Male,60 to 64 years,60
+1180,Chronic obstructive pulmonary disease,2671.71,13.091999999999999,Male,60 to 64 years,61
+1180,Chronic obstructive pulmonary disease,2671.71,13.091999999999999,Male,60 to 64 years,62
+1180,Chronic obstructive pulmonary disease,2671.71,13.091999999999999,Male,60 to 64 years,63
+1180,Chronic obstructive pulmonary disease,2671.71,13.091999999999999,Male,60 to 64 years,64
+1230,Cirrhosis of the liver,1828.2,11.684000000000001,Male,60 to 64 years,60
+1230,Cirrhosis of the liver,1828.2,11.684000000000001,Male,60 to 64 years,61
+1230,Cirrhosis of the liver,1828.2,11.684000000000001,Male,60 to 64 years,62
+1230,Cirrhosis of the liver,1828.2,11.684000000000001,Male,60 to 64 years,63
+1230,Cirrhosis of the liver,1828.2,11.684000000000001,Male,60 to 64 years,64
+870,Drug use disorders,1984.59,11.186,Male,60 to 64 years,60
+870,Drug use disorders,1984.59,11.186,Male,60 to 64 years,61
+870,Drug use disorders,1984.59,11.186,Male,60 to 64 years,62
+870,Drug use disorders,1984.59,11.186,Male,60 to 64 years,63
+870,Drug use disorders,1984.59,11.186,Male,60 to 64 years,64
+1140,Stroke,2073.65,10.674,Male,60 to 64 years,60
+1140,Stroke,2073.65,10.674,Male,60 to 64 years,61
+1140,Stroke,2073.65,10.674,Male,60 to 64 years,62
+1140,Stroke,2073.65,10.674,Male,60 to 64 years,63
+1140,Stroke,2073.65,10.674,Male,60 to 64 years,64
+1120,Hypertensive heart disease,1569.56,9.931999999999999,Male,60 to 64 years,60
+1120,Hypertensive heart disease,1569.56,9.931999999999999,Male,60 to 64 years,61
+1120,Hypertensive heart disease,1569.56,9.931999999999999,Male,60 to 64 years,62
+1120,Hypertensive heart disease,1569.56,9.931999999999999,Male,60 to 64 years,63
+1120,Hypertensive heart disease,1569.56,9.931999999999999,Male,60 to 64 years,64
+1270,Kidney diseases,1771.96,9.536,Male,60 to 64 years,60
+1270,Kidney diseases,1771.96,9.536,Male,60 to 64 years,61
+1270,Kidney diseases,1771.96,9.536,Male,60 to 64 years,62
+1270,Kidney diseases,1771.96,9.536,Male,60 to 64 years,63
+1270,Kidney diseases,1771.96,9.536,Male,60 to 64 years,64
+800,Diabetes mellitus,4243.37,8.914,Male,60 to 64 years,60
+800,Diabetes mellitus,4243.37,8.914,Male,60 to 64 years,61
+800,Diabetes mellitus,4243.37,8.914,Male,60 to 64 years,62
+800,Diabetes mellitus,4243.37,8.914,Male,60 to 64 years,63
+800,Diabetes mellitus,4243.37,8.914,Male,60 to 64 years,64
+1130,Ischaemic heart disease,10011.67,74.632,Male,65 to 69 years,65
+1130,Ischaemic heart disease,10011.67,74.632,Male,65 to 69 years,66
+1130,Ischaemic heart disease,10011.67,74.632,Male,65 to 69 years,67
+1130,Ischaemic heart disease,10011.67,74.632,Male,65 to 69 years,68
+1130,Ischaemic heart disease,10011.67,74.632,Male,65 to 69 years,69
+395,COVID-19,8520.56,64.078,Male,65 to 69 years,65
+395,COVID-19,8520.56,64.078,Male,65 to 69 years,66
+395,COVID-19,8520.56,64.078,Male,65 to 69 years,67
+395,COVID-19,8520.56,64.078,Male,65 to 69 years,68
+395,COVID-19,8520.56,64.078,Male,65 to 69 years,69
+680,"Trachea, bronchus, lung cancers",3590.16,26.945999999999998,Male,65 to 69 years,65
+680,"Trachea, bronchus, lung cancers",3590.16,26.945999999999998,Male,65 to 69 years,66
+680,"Trachea, bronchus, lung cancers",3590.16,26.945999999999998,Male,65 to 69 years,67
+680,"Trachea, bronchus, lung cancers",3590.16,26.945999999999998,Male,65 to 69 years,68
+680,"Trachea, bronchus, lung cancers",3590.16,26.945999999999998,Male,65 to 69 years,69
+1180,Chronic obstructive pulmonary disease,3979.51,22.306,Male,65 to 69 years,65
+1180,Chronic obstructive pulmonary disease,3979.51,22.306,Male,65 to 69 years,66
+1180,Chronic obstructive pulmonary disease,3979.51,22.306,Male,65 to 69 years,67
+1180,Chronic obstructive pulmonary disease,3979.51,22.306,Male,65 to 69 years,68
+1180,Chronic obstructive pulmonary disease,3979.51,22.306,Male,65 to 69 years,69
+1140,Stroke,2646.96,15.972,Male,65 to 69 years,65
+1140,Stroke,2646.96,15.972,Male,65 to 69 years,66
+1140,Stroke,2646.96,15.972,Male,65 to 69 years,67
+1140,Stroke,2646.96,15.972,Male,65 to 69 years,68
+1140,Stroke,2646.96,15.972,Male,65 to 69 years,69
+1270,Kidney diseases,2209.64,14.11,Male,65 to 69 years,65
+1270,Kidney diseases,2209.64,14.11,Male,65 to 69 years,66
+1270,Kidney diseases,2209.64,14.11,Male,65 to 69 years,67
+1270,Kidney diseases,2209.64,14.11,Male,65 to 69 years,68
+1270,Kidney diseases,2209.64,14.11,Male,65 to 69 years,69
+1120,Hypertensive heart disease,1615.03,11.836,Male,65 to 69 years,65
+1120,Hypertensive heart disease,1615.03,11.836,Male,65 to 69 years,66
+1120,Hypertensive heart disease,1615.03,11.836,Male,65 to 69 years,67
+1120,Hypertensive heart disease,1615.03,11.836,Male,65 to 69 years,68
+1120,Hypertensive heart disease,1615.03,11.836,Male,65 to 69 years,69
+800,Diabetes mellitus,4941.6,11.3,Male,65 to 69 years,65
+800,Diabetes mellitus,4941.6,11.3,Male,65 to 69 years,66
+800,Diabetes mellitus,4941.6,11.3,Male,65 to 69 years,67
+800,Diabetes mellitus,4941.6,11.3,Male,65 to 69 years,68
+800,Diabetes mellitus,4941.6,11.3,Male,65 to 69 years,69
+1230,Cirrhosis of the liver,1465.89,11.006,Male,65 to 69 years,65
+1230,Cirrhosis of the liver,1465.89,11.006,Male,65 to 69 years,66
+1230,Cirrhosis of the liver,1465.89,11.006,Male,65 to 69 years,67
+1230,Cirrhosis of the liver,1465.89,11.006,Male,65 to 69 years,68
+1230,Cirrhosis of the liver,1465.89,11.006,Male,65 to 69 years,69
+650,Colon and rectum cancers,1526.05,10.8,Male,65 to 69 years,65
+650,Colon and rectum cancers,1526.05,10.8,Male,65 to 69 years,66
+650,Colon and rectum cancers,1526.05,10.8,Male,65 to 69 years,67
+650,Colon and rectum cancers,1526.05,10.8,Male,65 to 69 years,68
+650,Colon and rectum cancers,1526.05,10.8,Male,65 to 69 years,69
+1130,Ischaemic heart disease,12380.69,111.428,Male,70 to 74 years,70
+1130,Ischaemic heart disease,12380.69,111.428,Male,70 to 74 years,71
+1130,Ischaemic heart disease,12380.69,111.428,Male,70 to 74 years,72
+1130,Ischaemic heart disease,12380.69,111.428,Male,70 to 74 years,73
+1130,Ischaemic heart disease,12380.69,111.428,Male,70 to 74 years,74
+395,COVID-19,10501.21,95.982,Male,70 to 74 years,70
+395,COVID-19,10501.21,95.982,Male,70 to 74 years,71
+395,COVID-19,10501.21,95.982,Male,70 to 74 years,72
+395,COVID-19,10501.21,95.982,Male,70 to 74 years,73
+395,COVID-19,10501.21,95.982,Male,70 to 74 years,74
+680,"Trachea, bronchus, lung cancers",4431.59,40.254000000000005,Male,70 to 74 years,70
+680,"Trachea, bronchus, lung cancers",4431.59,40.254000000000005,Male,70 to 74 years,71
+680,"Trachea, bronchus, lung cancers",4431.59,40.254000000000005,Male,70 to 74 years,72
+680,"Trachea, bronchus, lung cancers",4431.59,40.254000000000005,Male,70 to 74 years,73
+680,"Trachea, bronchus, lung cancers",4431.59,40.254000000000005,Male,70 to 74 years,74
+1180,Chronic obstructive pulmonary disease,5701.84,38.910000000000004,Male,70 to 74 years,70
+1180,Chronic obstructive pulmonary disease,5701.84,38.910000000000004,Male,70 to 74 years,71
+1180,Chronic obstructive pulmonary disease,5701.84,38.910000000000004,Male,70 to 74 years,72
+1180,Chronic obstructive pulmonary disease,5701.84,38.910000000000004,Male,70 to 74 years,73
+1180,Chronic obstructive pulmonary disease,5701.84,38.910000000000004,Male,70 to 74 years,74
+1140,Stroke,3653.7,26.683999999999997,Male,70 to 74 years,70
+1140,Stroke,3653.7,26.683999999999997,Male,70 to 74 years,71
+1140,Stroke,3653.7,26.683999999999997,Male,70 to 74 years,72
+1140,Stroke,3653.7,26.683999999999997,Male,70 to 74 years,73
+1140,Stroke,3653.7,26.683999999999997,Male,70 to 74 years,74
+1270,Kidney diseases,2932.92,22.892,Male,70 to 74 years,70
+1270,Kidney diseases,2932.92,22.892,Male,70 to 74 years,71
+1270,Kidney diseases,2932.92,22.892,Male,70 to 74 years,72
+1270,Kidney diseases,2932.92,22.892,Male,70 to 74 years,73
+1270,Kidney diseases,2932.92,22.892,Male,70 to 74 years,74
+950,Alzheimer disease and other dementias,2857.0,20.72,Male,70 to 74 years,70
+950,Alzheimer disease and other dementias,2857.0,20.72,Male,70 to 74 years,71
+950,Alzheimer disease and other dementias,2857.0,20.72,Male,70 to 74 years,72
+950,Alzheimer disease and other dementias,2857.0,20.72,Male,70 to 74 years,73
+950,Alzheimer disease and other dementias,2857.0,20.72,Male,70 to 74 years,74
+740,Prostate cancer,2365.26,16.776,Male,70 to 74 years,70
+740,Prostate cancer,2365.26,16.776,Male,70 to 74 years,71
+740,Prostate cancer,2365.26,16.776,Male,70 to 74 years,72
+740,Prostate cancer,2365.26,16.776,Male,70 to 74 years,73
+740,Prostate cancer,2365.26,16.776,Male,70 to 74 years,74
+1120,Hypertensive heart disease,1814.03,16.024,Male,70 to 74 years,70
+1120,Hypertensive heart disease,1814.03,16.024,Male,70 to 74 years,71
+1120,Hypertensive heart disease,1814.03,16.024,Male,70 to 74 years,72
+1120,Hypertensive heart disease,1814.03,16.024,Male,70 to 74 years,73
+1120,Hypertensive heart disease,1814.03,16.024,Male,70 to 74 years,74
+800,Diabetes mellitus,5529.02,15.363999999999999,Male,70 to 74 years,70
+800,Diabetes mellitus,5529.02,15.363999999999999,Male,70 to 74 years,71
+800,Diabetes mellitus,5529.02,15.363999999999999,Male,70 to 74 years,72
+800,Diabetes mellitus,5529.02,15.363999999999999,Male,70 to 74 years,73
+800,Diabetes mellitus,5529.02,15.363999999999999,Male,70 to 74 years,74
+1130,Ischaemic heart disease,14240.24,160.89000000000001,Male,75 to 79 years,75
+1130,Ischaemic heart disease,14240.24,160.89000000000001,Male,75 to 79 years,76
+1130,Ischaemic heart disease,14240.24,160.89000000000001,Male,75 to 79 years,77
+1130,Ischaemic heart disease,14240.24,160.89000000000001,Male,75 to 79 years,78
+1130,Ischaemic heart disease,14240.24,160.89000000000001,Male,75 to 79 years,79
+395,COVID-19,11615.42,133.572,Male,75 to 79 years,75
+395,COVID-19,11615.42,133.572,Male,75 to 79 years,76
+395,COVID-19,11615.42,133.572,Male,75 to 79 years,77
+395,COVID-19,11615.42,133.572,Male,75 to 79 years,78
+395,COVID-19,11615.42,133.572,Male,75 to 79 years,79
+1180,Chronic obstructive pulmonary disease,7213.08,61.254,Male,75 to 79 years,75
+1180,Chronic obstructive pulmonary disease,7213.08,61.254,Male,75 to 79 years,76
+1180,Chronic obstructive pulmonary disease,7213.08,61.254,Male,75 to 79 years,77
+1180,Chronic obstructive pulmonary disease,7213.08,61.254,Male,75 to 79 years,78
+1180,Chronic obstructive pulmonary disease,7213.08,61.254,Male,75 to 79 years,79
+950,Alzheimer disease and other dementias,5817.5,54.55800000000001,Male,75 to 79 years,75
+950,Alzheimer disease and other dementias,5817.5,54.55800000000001,Male,75 to 79 years,76
+950,Alzheimer disease and other dementias,5817.5,54.55800000000001,Male,75 to 79 years,77
+950,Alzheimer disease and other dementias,5817.5,54.55800000000001,Male,75 to 79 years,78
+950,Alzheimer disease and other dementias,5817.5,54.55800000000001,Male,75 to 79 years,79
+680,"Trachea, bronchus, lung cancers",4776.54,54.438,Male,75 to 79 years,75
+680,"Trachea, bronchus, lung cancers",4776.54,54.438,Male,75 to 79 years,76
+680,"Trachea, bronchus, lung cancers",4776.54,54.438,Male,75 to 79 years,77
+680,"Trachea, bronchus, lung cancers",4776.54,54.438,Male,75 to 79 years,78
+680,"Trachea, bronchus, lung cancers",4776.54,54.438,Male,75 to 79 years,79
+1140,Stroke,4950.53,44.736000000000004,Male,75 to 79 years,75
+1140,Stroke,4950.53,44.736000000000004,Male,75 to 79 years,76
+1140,Stroke,4950.53,44.736000000000004,Male,75 to 79 years,77
+1140,Stroke,4950.53,44.736000000000004,Male,75 to 79 years,78
+1140,Stroke,4950.53,44.736000000000004,Male,75 to 79 years,79
+1270,Kidney diseases,3651.49,34.68,Male,75 to 79 years,75
+1270,Kidney diseases,3651.49,34.68,Male,75 to 79 years,76
+1270,Kidney diseases,3651.49,34.68,Male,75 to 79 years,77
+1270,Kidney diseases,3651.49,34.68,Male,75 to 79 years,78
+1270,Kidney diseases,3651.49,34.68,Male,75 to 79 years,79
+740,Prostate cancer,3012.73,27.644,Male,75 to 79 years,75
+740,Prostate cancer,3012.73,27.644,Male,75 to 79 years,76
+740,Prostate cancer,3012.73,27.644,Male,75 to 79 years,77
+740,Prostate cancer,3012.73,27.644,Male,75 to 79 years,78
+740,Prostate cancer,3012.73,27.644,Male,75 to 79 years,79
+1120,Hypertensive heart disease,1974.16,21.96,Male,75 to 79 years,75
+1120,Hypertensive heart disease,1974.16,21.96,Male,75 to 79 years,76
+1120,Hypertensive heart disease,1974.16,21.96,Male,75 to 79 years,77
+1120,Hypertensive heart disease,1974.16,21.96,Male,75 to 79 years,78
+1120,Hypertensive heart disease,1974.16,21.96,Male,75 to 79 years,79
+960,Parkinson disease,2140.04,21.95,Male,75 to 79 years,75
+960,Parkinson disease,2140.04,21.95,Male,75 to 79 years,76
+960,Parkinson disease,2140.04,21.95,Male,75 to 79 years,77
+960,Parkinson disease,2140.04,21.95,Male,75 to 79 years,78
+960,Parkinson disease,2140.04,21.95,Male,75 to 79 years,79
+1130,Ischaemic heart disease,17478.26,259.642,Male,80 to 84 years,80
+1130,Ischaemic heart disease,17478.26,259.642,Male,80 to 84 years,81
+1130,Ischaemic heart disease,17478.26,259.642,Male,80 to 84 years,82
+1130,Ischaemic heart disease,17478.26,259.642,Male,80 to 84 years,83
+1130,Ischaemic heart disease,17478.26,259.642,Male,80 to 84 years,84
+395,COVID-19,12713.44,192.334,Male,80 to 84 years,80
+395,COVID-19,12713.44,192.334,Male,80 to 84 years,81
+395,COVID-19,12713.44,192.334,Male,80 to 84 years,82
+395,COVID-19,12713.44,192.334,Male,80 to 84 years,83
+395,COVID-19,12713.44,192.334,Male,80 to 84 years,84
+950,Alzheimer disease and other dementias,10896.37,132.93800000000002,Male,80 to 84 years,80
+950,Alzheimer disease and other dementias,10896.37,132.93800000000002,Male,80 to 84 years,81
+950,Alzheimer disease and other dementias,10896.37,132.93800000000002,Male,80 to 84 years,82
+950,Alzheimer disease and other dementias,10896.37,132.93800000000002,Male,80 to 84 years,83
+950,Alzheimer disease and other dementias,10896.37,132.93800000000002,Male,80 to 84 years,84
+1180,Chronic obstructive pulmonary disease,8426.28,93.678,Male,80 to 84 years,80
+1180,Chronic obstructive pulmonary disease,8426.28,93.678,Male,80 to 84 years,81
+1180,Chronic obstructive pulmonary disease,8426.28,93.678,Male,80 to 84 years,82
+1180,Chronic obstructive pulmonary disease,8426.28,93.678,Male,80 to 84 years,83
+1180,Chronic obstructive pulmonary disease,8426.28,93.678,Male,80 to 84 years,84
+1140,Stroke,6828.45,81.148,Male,80 to 84 years,80
+1140,Stroke,6828.45,81.148,Male,80 to 84 years,81
+1140,Stroke,6828.45,81.148,Male,80 to 84 years,82
+1140,Stroke,6828.45,81.148,Male,80 to 84 years,83
+1140,Stroke,6828.45,81.148,Male,80 to 84 years,84
+680,"Trachea, bronchus, lung cancers",4405.08,65.796,Male,80 to 84 years,80
+680,"Trachea, bronchus, lung cancers",4405.08,65.796,Male,80 to 84 years,81
+680,"Trachea, bronchus, lung cancers",4405.08,65.796,Male,80 to 84 years,82
+680,"Trachea, bronchus, lung cancers",4405.08,65.796,Male,80 to 84 years,83
+680,"Trachea, bronchus, lung cancers",4405.08,65.796,Male,80 to 84 years,84
+1270,Kidney diseases,4610.94,55.516,Male,80 to 84 years,80
+1270,Kidney diseases,4610.94,55.516,Male,80 to 84 years,81
+1270,Kidney diseases,4610.94,55.516,Male,80 to 84 years,82
+1270,Kidney diseases,4610.94,55.516,Male,80 to 84 years,83
+1270,Kidney diseases,4610.94,55.516,Male,80 to 84 years,84
+740,Prostate cancer,3698.84,46.476,Male,80 to 84 years,80
+740,Prostate cancer,3698.84,46.476,Male,80 to 84 years,81
+740,Prostate cancer,3698.84,46.476,Male,80 to 84 years,82
+740,Prostate cancer,3698.84,46.476,Male,80 to 84 years,83
+740,Prostate cancer,3698.84,46.476,Male,80 to 84 years,84
+960,Parkinson disease,3058.81,41.7,Male,80 to 84 years,80
+960,Parkinson disease,3058.81,41.7,Male,80 to 84 years,81
+960,Parkinson disease,3058.81,41.7,Male,80 to 84 years,82
+960,Parkinson disease,3058.81,41.7,Male,80 to 84 years,83
+960,Parkinson disease,3058.81,41.7,Male,80 to 84 years,84
+1120,Hypertensive heart disease,2589.13,38.025999999999996,Male,80 to 84 years,80
+1120,Hypertensive heart disease,2589.13,38.025999999999996,Male,80 to 84 years,81
+1120,Hypertensive heart disease,2589.13,38.025999999999996,Male,80 to 84 years,82
+1120,Hypertensive heart disease,2589.13,38.025999999999996,Male,80 to 84 years,83
+1120,Hypertensive heart disease,2589.13,38.025999999999996,Male,80 to 84 years,84
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,85
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,86
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,87
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,88
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,89
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,90
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,91
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,92
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,93
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,94
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,95
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,96
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,97
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,98
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,99
+1130,Ischaemic heart disease,23058.49,192.27875,Male,85+ years,100
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,85
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,86
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,87
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,88
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,89
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,90
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,91
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,92
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,93
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,94
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,95
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,96
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,97
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,98
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,99
+950,Alzheimer disease and other dementias,19990.81,132.705,Male,85+ years,100
+395,COVID-19,11717.47,99.336875,Male,85+ years,85
+395,COVID-19,11717.47,99.336875,Male,85+ years,86
+395,COVID-19,11717.47,99.336875,Male,85+ years,87
+395,COVID-19,11717.47,99.336875,Male,85+ years,88
+395,COVID-19,11717.47,99.336875,Male,85+ years,89
+395,COVID-19,11717.47,99.336875,Male,85+ years,90
+395,COVID-19,11717.47,99.336875,Male,85+ years,91
+395,COVID-19,11717.47,99.336875,Male,85+ years,92
+395,COVID-19,11717.47,99.336875,Male,85+ years,93
+395,COVID-19,11717.47,99.336875,Male,85+ years,94
+395,COVID-19,11717.47,99.336875,Male,85+ years,95
+395,COVID-19,11717.47,99.336875,Male,85+ years,96
+395,COVID-19,11717.47,99.336875,Male,85+ years,97
+395,COVID-19,11717.47,99.336875,Male,85+ years,98
+395,COVID-19,11717.47,99.336875,Male,85+ years,99
+395,COVID-19,11717.47,99.336875,Male,85+ years,100
+1140,Stroke,8861.92,58.710625,Male,85+ years,85
+1140,Stroke,8861.92,58.710625,Male,85+ years,86
+1140,Stroke,8861.92,58.710625,Male,85+ years,87
+1140,Stroke,8861.92,58.710625,Male,85+ years,88
+1140,Stroke,8861.92,58.710625,Male,85+ years,89
+1140,Stroke,8861.92,58.710625,Male,85+ years,90
+1140,Stroke,8861.92,58.710625,Male,85+ years,91
+1140,Stroke,8861.92,58.710625,Male,85+ years,92
+1140,Stroke,8861.92,58.710625,Male,85+ years,93
+1140,Stroke,8861.92,58.710625,Male,85+ years,94
+1140,Stroke,8861.92,58.710625,Male,85+ years,95
+1140,Stroke,8861.92,58.710625,Male,85+ years,96
+1140,Stroke,8861.92,58.710625,Male,85+ years,97
+1140,Stroke,8861.92,58.710625,Male,85+ years,98
+1140,Stroke,8861.92,58.710625,Male,85+ years,99
+1140,Stroke,8861.92,58.710625,Male,85+ years,100
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,85
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,86
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,87
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,88
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,89
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,90
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,91
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,92
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,93
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,94
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,95
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,96
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,97
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,98
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,99
+1180,Chronic obstructive pulmonary disease,8530.7,51.474375,Male,85+ years,100
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,85
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,86
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,87
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,88
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,89
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,90
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,91
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,92
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,93
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,94
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,95
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,96
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,97
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,98
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,99
+1120,Hypertensive heart disease,4013.56,33.16,Male,85+ years,100
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,85
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,86
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,87
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,88
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,89
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,90
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,91
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,92
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,93
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,94
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,95
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,96
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,97
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,98
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,99
+1270,Kidney diseases,5221.5,31.915625,Male,85+ years,100
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,85
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,86
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,87
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,88
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,89
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,90
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,91
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,92
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,93
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,94
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,95
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,96
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,97
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,98
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,99
+740,Prostate cancer,4096.98,30.298125,Male,85+ years,100
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,85
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,86
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,87
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,88
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,89
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,90
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,91
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,92
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,93
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,94
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,95
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,96
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,97
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,98
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,99
+960,Parkinson disease,2824.29,21.584375,Male,85+ years,100
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,85
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,86
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,87
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,88
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,89
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,90
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,91
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,92
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,93
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,94
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,95
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,96
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,97
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,98
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,99
+680,"Trachea, bronchus, lung cancers",2604.23,21.57125,Male,85+ years,100
