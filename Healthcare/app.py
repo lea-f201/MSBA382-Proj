@@ -128,7 +128,7 @@ col1, col_sep, col3 = st.columns([2.2, 0.1, 1.5])
 
 # --- COLUMN 1 ---
 with col1:
-    st.markdown("<h5 style='margin-bottom: 10px;'>Heart Disease Among the Leading Causes of Death by Gender</h5>", unsafe_allow_html=True)
+    st.markdown("<h5 style='margin-bottom: 10px;'>Heart Disease Among the Leading Causes of Death by Gender (Per 100,000) – 2019</h5>", unsafe_allow_html=True)
 
     filtered_deaths = df_deaths[(df_deaths["NumericAge"] >= age_min) & (df_deaths["NumericAge"] <= age_max)]
 
